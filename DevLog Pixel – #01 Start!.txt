@@ -1,0 +1,11 @@
+
+DevLog Pixel – #01 Start!
+
+Sty 1, 2017 | devlog
+
+Cześć wszystkim, od dzisiaj zaczynam przygodę z tworzeniem gry, (czyt. skromna moja gra) Wpadłem na pomysł stworzenia gry, co prawda nie mam jeszcze pomysłu na nazwę samej gry ale wiem już jak będzie ona wyglądać. Planuje zrobić grę w miarę przyzwoitym czasie. Na swoim koncie mam już zrobioną aplikację Stoper oraz grę Pan Rybka. Pan Rybka jest grą przygodową dla dzieci i dorosłych, dlatego postanowiłem ją rozbudować ale jak na razie jest to wielka tajemnica. W kolejnych dniach postaram się co nie co zdradzić.
+
+A teraz czas na konkrety. Moja najnowsza gra, która powstanie w późniejszym czasie to platformówka 2D. Gra znajdzie swoje miejsce we wszystkich dystrybucjach (windows, anrdoird, ios). Koncepcja gry będzie wymagała logicznego myślenia oraz rozwiązywania zagadek.
+
+ 
+Druga moja gra nad która będę pracować, zobaczymy jaki będzie owoc tej pracy

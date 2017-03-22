@@ -1,0 +1,11 @@
+
+DevLog Pixel – #02 Koncepcja gry
+
+Sty 5, 2017 | devlog
+
+Koncepcja gry na dzień dzisiejszy. Zaczynam tworzyć diagram i cały projekt, który pozwoli mi zaplanować kroki jakie muszę podjąć. Gra będzie tworzona na bazie starych gier 8-bitowych. Dlaczego akurat tak? Od dłuższego czasu jestem jej ogromnym fanem oraz bardzo lubię gry tworzone w tej technologii graficznej. Koncepcja gry już jest teraz nadszedł czas aby zastanowić się nad nazwą gry. Wpadłem na pewien pomysł, otóż nazwa mojej nowej gry będzie zawierała dwa wyrazy. Jeden z nich to Pixel, a drugi jak na razie pozostawiam w tajemnicy. Czemu akurat Pixel, już tłumacze bo Pixel to nasz bohater stworzony z pixeli, który będzie rozwiązywać logicznie zagadki.
+
+Zastanawiam się od dłuższego czasu jakie oprogramowanie wykorzystać aby stworzyć ta grę. Z jednej strony myślę, że Paint z Windowsa by wystarczył, ale z drugiej strony chciałbym wykorzystać lepsze narzędzie. Trochę z grafika mam do czynienia i tak sobie myślę, że dobrze by było mieć coś lepszego. Tak więc zabieram się do pracy i idę szukać ciekawostek na temat Pixel Art.
+
+ 
+Koncepcja gry jest dość prosta, więc myślę że ma szansę się przyjąć.
