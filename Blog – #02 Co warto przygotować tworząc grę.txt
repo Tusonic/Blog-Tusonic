@@ -1,0 +1,39 @@
+%%title%% %%page%% %%sep%% Pomys³, plan, technologia!
+
+Co warto przygotowaæ tworz¹c grê oraz na co warto zwróciæ uwagê? Jest kilka rzeczy, które pozwoli³y mi dalej brn¹æ do celu.
+
+co warto przygotowaæ tworz¹c grê
+
+http://tusonic.pl/co-warto-przygotowac-tworzac-gre/
+
+
+Blog – #02 Co warto przygotowaæ tworz¹c grê
+
+Lut 2, 2017 | blog
+
+Co warto przygotowaæ tworz¹c grê oraz na co warto zwróciæ uwagê?
+
+Jest kilka rzeczy, które pozwoli³y mi dalej brn¹æ do celu, mam nadziejê ¿e moje przemyœlenia komuœ siê przydadz¹. Tak wiêc przedstawiam wam 5 moich cennych uwag bazuj¹c na moim doœwiadczeniu.
+
+    Pomys³ na grê.
+
+Tak naprawdê to od tego powinniœmy zacz¹æ przygodê z tworzeniem gry. Na pocz¹tku nale¿y zastanowiæ siê o czym gra ma byæ, dla kogo ma byæ skierowana, dla m³odszych a mo¿e starszych osób? Jak równie¿ co ma przedstawiaæ. Moim zdaniem jeœli mamy do czynienia z nasza pierwsz¹ gr¹ to nale¿y zacz¹æ od prostych rzeczy, aby nauczyæ siê technologii w której bêdziemy tworzyæ grê. Po pomyœle na grê przechodzimy do nastêpnego punktu, czyli tworzenie planu gry.
+
+    Plan gry
+
+Jeœli tego nie mamy nie nale¿y zabieraæ siê za tworzenie gry. Dobrze wiem z w³asnego doœwiadczenia, ¿e bez takiej rozpiski ciê¿ko  stworzyæ grê, aby ona by³a doœæ ciekawa oraz prawid³owo stworzona. Plan jest bardzo wa¿ny elementem przy tworzeniu o czym siê przekona³em. Osobiœcie do tworzenia takiego planu skorzysta³em z portalu gantter.com. Ten portal umo¿liwia stworzenia wykresu Gantta, w moim wypadku bardzo siê sprawdzi³o. Jedyna nad czym muszê popracowaæ to nad przewidywaniem czasu, poniewa¿ tutaj doœæ mocno siê pomyli³em. Posiadaj¹c plan mamy pe³n¹ kontrolê nad naszym projektem co pozwoli nam lepiej zaprojektowaæ grê.
+
+    Programowanie gry
+
+Jakiego jêzyka u¿yæ do programowania? Ile ludzi tyle pomys³ów, warto jednak wybraæ jakiœ przysz³oœciowy jêzyk programowania. Tworz¹c w nim grê równolegle nabywam cenne dla nas i naszego pracodawcy umiejêtnoœci. Warto siê zastanowiæ na jakie urz¹dzenia bêdzie nasza gra, czy tylko na telefony ze systemem android czy na stronie internetowej naszego bloga. Osobiœcie uwa¿am ¿e im wiêcej dystrybucji tym lepiej, poniewa¿ gra nabierze rozmachu oraz trafi do wiêkszej iloœci odbiorców.
+
+    Grafika w grze
+
+Jest bardzo wa¿nym elementem,  Jako pierwszym krokiem od którego bym zacz¹³ to przygotowanie finalnej grafiki. Dlaczego w³aœnie tak? Otó¿ posiadaj¹c ju¿ grafikê bêdziemy mogli ja zastosowaæ w naszej grze. Myœlê, ¿e powinniœmy tutaj poœwiêciæ doœæ sporo czasu je¿eli nie jesteœmy profesjonalnym grafikiem oraz nie posiadamy talentu malowania. Warto siê potrudziæ i stworzyæ coœ w³asnego.
+
+    Muzyka w grze
+
+Tak samo jak grafika, dobrze dobrana muzyka pozwoli naszym graczom pozostaæ d³u¿ej w grze. Sk¹d braæ muzykê? Podobnie jak z grafik¹ odsy³am do linku z mojego bloga.
+
+ 
+Ostatecznie co warto przygotowaæ tworz¹c grê? Pomys³, plan i technologie!

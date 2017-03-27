@@ -1,3 +1,11 @@
+﻿%%title%% %%page%% %%sep%% Pomysł na nazwę do gry
+
+Koncepcja gry na dzień dzisiejszy. Zaczynam tworzyć diagram i cały projekt, który pozwoli mi zaplanować kroki jakie muszę podjąć aby gra wyglądała dobrze.
+
+koncepcja gry
+
+http://tusonic.pl/devlog-pixel-02-koncepcja-gry/
+
 
 DevLog Pixel – #02 Koncepcja gry
 

@@ -1,3 +1,11 @@
+﻿%%title%% %%page%% %%sep%% Grafika 8-bit w programie graficznym
+
+Pierwsze zakupy i kolejny dzień za nami, a mój projekt gry oraz grafika 8-bit nabrała tempa. Mam już pierwsze stworzone plansze do gry.
+
+pierwsze zakupy
+
+http://tusonic.pl/devlog-pixel-03-pierwsze-zakupy/
+
 
 DevLog Pixel – #03 Pierwsze zakupy
 

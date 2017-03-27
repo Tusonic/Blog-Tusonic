@@ -1,4 +1,12 @@
-﻿
+﻿%%title%% %%page%% %%sep%% Poznajcie Pana Węża i Pająka
+
+Przeciwnicy w grze, wąż i pająk. Naszym zadaniem w grze będzie unikanie kontaktu z tymi obiektami, ponieważ będą one powodować śmierć naszego bohatera.
+
+przeciwnicy w grze
+
+http://tusonic.pl/devlog-pixel-05-przeciwnicy-w-grze/
+
+
 DevLog Pixel – #05 Przeciwnicy w grze
 
 Sty 25, 2017 | devlog

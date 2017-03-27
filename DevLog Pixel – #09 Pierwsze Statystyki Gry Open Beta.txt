@@ -1,0 +1,58 @@
+%%title%% %%page%% %%sep%% Pixel Shon Adventure
+
+Statystyki Gry Pixel Shon Adventure nie wygl¹daj¹ najgorzej. Jak widaæ nie jest a¿ tak Ÿle, jak na skromny mój bud¿et który posiadam.
+
+statystyki gry
+
+
+http://tusonic.pl/devlog-pixel-09-pierwsze-statystyki-gry/
+
+
+DevLog Pixel – #09 Pierwsze Statystyki Gry Open Beta
+
+Lut 23, 2017 | devlog
+
+Statystyki Gry Pixel Open Beta nie wygl¹daj¹ najgorzej.
+
+Jak widaæ nie jest a¿ tak Ÿle, jak na skromny bud¿et. Muszê siê wam pochwaliæ, ¿e osoby które zagra³y w moja grê wyrazi³o pozytywne zdanie. Trochê ubolewam nad tym ¿e bêdê musia³ poprawiæ plansze ze wzglêdu na poziom trudnoœci, poniewa¿ spora czêœæ osób graj¹c w moj¹ grê mia³a problem z jej przejœciem. Planuje do koñca tygodnia wypuœciæ wersje mojej gry na telefon. Jestem doœæ zapracowany nad tworzeniem i udoskonalaniem gry Pixel dlatego rzadziej dzielê siê z wami moimi postêpami. Od dzisiaj moja gra ma now¹ nazwê: Pixel Shon Adventure.
+
+Zdradzê wam moj¹ ma³¹ tajemnicê, a wiêc aplikacja Pan Rybka w najbli¿szym czasie doczeka siê sporej aktualizacji.
+
+Iloœæ unikalnych osób które ukoñczy³y poszczególny poziom.
+£¹czna unikalna iloœæ osób: 100, czyli prosty rachunek 100 osób = 100%
+
+ 
+Statystyki gry: 10.02 – 20.02
+
+
+-----------------
+
+92%
+LEVEL 1.1
+
+55%
+LEVEL 1.5
+
+86%
+LEVEL 1.2
+
+42%
+LEVEL 1.6
+
+74%
+LEVEL 1.3
+
+69%
+LEVEL 1.4
+
+35%
+LEVEL 2.1
+
+24%
+LEVEL 2.2
+
+16%
+LEVEL 2.3
+
+5%
+LEVEL 2.4

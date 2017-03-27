@@ -1,3 +1,11 @@
+﻿%%title%% %%page%% %%sep%% Moja pierwsza zagadka
+
+Zagadka w grze, moja pierwsza zagadka, jak wygląda? Głównym celem naszego bohatera będzie ustawienie dźwigni tak aby otworzyć bramę.
+
+zagadka w grze
+
+http://tusonic.pl/devlog-pixel-04-zagadka-w-grze/
+
 
 DevLog Pixel – #04 Zagadka w grze
 

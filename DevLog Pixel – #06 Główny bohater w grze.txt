@@ -1,0 +1,19 @@
+%%title%% %%page%% %%sep%% Ostateczna decyzja
+
+Bohater w grze jest bardzo wa¿ny. W³aœnie nadszed³ moment na zastanowienie siê jak bêdzie wygl¹daæ g³ówny bohater gry. Trudna by³a to ³atwa decyzja.
+
+bohater w grze
+
+http://tusonic.pl/devlog-pixel-06-glowny-bohater-w-grze/
+
+
+DevLog Pixel – #06 G³ówny bohater w grze
+
+Lut 1, 2017 | devlog
+
+Bohater w grze jest bardzo wa¿ny. W³aœnie nadszed³ moment na zastanowienie siê jak bêdzie wygl¹daæ g³ówny bohater gry. Nie ukrywam bardzo ciê¿ko by³o mi podj¹æ decyzjê jak bêdzie wygl¹da³a moja g³ówna postaæ.
+
+Wraz z rozwojem gry moja postaæ bêdzie przyjmowaæ ró¿ne formy wygl¹du. W najbli¿szym czasie zamierzam zrobiæ dok³adne sterowanie naszym bohaterem. Przygotowane mam ju¿ przyciski pod urz¹dzenia mobilne, poniewa¿ wstêpnie planuje grê wydaæ na androida oraz na strony internetowe, ró¿ne portale z tematyk¹ gier indie, blog, facebook, itp. Dodatkowo dosz³a dziœ nowa zak³adka BETA w której publikowaæ bêdê projekt mojej gry. Dziêki czemu i wy mo¿ecie tak¿e byæ testerami mojej gry.
+
+ 
+Bohater w grze

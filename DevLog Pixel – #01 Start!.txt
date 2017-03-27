@@ -1,3 +1,11 @@
+﻿%%title%% %%page%% %%sep%% Moja gra, moja produkcja
+
+Cześć wszystkim, od dzisiaj zaczynam przygodę z tworzeniem własnej gry. Mam nadzieję że moja gra odniesie sukces. Trzymajcie kciuki!
+
+moja gra
+
+http://tusonic.pl/devlog-pixel-01-moja-gra/
+
 
 DevLog Pixel – #01 Start!
 

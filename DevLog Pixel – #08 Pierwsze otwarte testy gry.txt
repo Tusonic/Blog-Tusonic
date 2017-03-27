@@ -1,0 +1,19 @@
+%%title%% %%page%% %%sep%% Testy czas zacz¹æ
+
+Testy gry s¹ doœæ wa¿ne, co prawda do skoñczenia gry jeszcze daleko, ale postanowi³em ¿e udostêpniê grê w wersji beta tak jak obieca³em w poprzednim wpisie.
+
+testy gry
+
+http://tusonic.pl/devlog-pixel-08-testy-gry/
+
+
+DevLog Pixel – #08 Pierwsze otwarte testy gry
+
+Lut 10, 2017 | devlog
+
+Testy gry s¹ doœæ wa¿ne, co prawda do skoñczenia gry jeszcze daleko, ale postanowi³em ¿e udostêpniê grê w wersji beta tak jak obieca³em w poprzednim wpisie. Postaram siê za jakiœ czas napisaæ wnioski z tego co wysz³o, ile graczy zagra³o, ogólne statystyki z open beta testów. Dodatkowo dziœ na moim blogu doda³em dodatkow¹ kategoriê w której mam zamiar umieszczaæ wszystkie moje projekty. Poniewa¿ jest tego trochê, a fajnie jest mieæ wszystko w jednym miejscu. Blog jest ca³y czas aktualizowany co mo¿e doprowadziæ do tego ¿e ostatecznie zak³adki mog¹ jeszcze ulec zmianie.
+
+A póki co, zapraszam wszystkich na
+
+ 
+Testy gry – link

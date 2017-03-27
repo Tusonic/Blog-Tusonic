@@ -1,0 +1,17 @@
+%%title%% %%page%% %%sep%% Open Beta na blogu
+
+Otwarta beta tu¿ tu¿. Pierwszy filmik z mojej gry wygl¹da ju¿ doœæ dobrze. Na ten moment zrobionych jest ju¿ parê plansz.
+
+otwarta beta
+
+http://tusonic.pl/devlog-pixel-07-otwarta-beta/
+
+
+DevLog Pixel – #07 Nadchodzi otwarta beta
+
+Lut 6, 2017 | devlog
+
+Otwarta beta tu¿ tu¿. Pierwszy filmik z mojej gry wygl¹da ju¿ doœæ dobrze. Na ten moment zrobionych jest ju¿ parê plansz, które umo¿liwi¹ nowemu graczowi zaznajomiæ siê z mechanika gry. W grze zastosowa³em elementy tj. klucze, które s¹ odpowiedzialne za otwieranie bram jak równie¿ laser za pomoc¹, którego bêdzie mo¿na zniszczyæ wszystko co bêdzie stanowi³o przeszkodê w grze. Od jutra zaczynam projektowaæ pierwsz¹ scenerie gry czyli podziemia. Przymierzam siê do pierwszego opublikowania mojej gry, na razie bêdzie to w formie otwartej bety tylko na przegl¹darkê w tym blogu. Ostatecznie gra bêdzie dostêpna na wielu platformach!
+
+ 
+Otwarta beta bêdzie dostêpna w ten weekend
