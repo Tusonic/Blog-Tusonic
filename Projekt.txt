@@ -1,0 +1,7 @@
+Witam w dziale pojekt, bêdê tutaj umieszczaæ wszystkie moje projekty nad którymi aktualnie pracujê oraz wszystkie jakie uda³o mi siê ukoñczyæ. Ka¿dy z moich projektów który jest umieszczony tutaj na blogu jest mojego autorstwa. Gry oraz grafika wykorzystywana w projektach jest tworzona osobiœcie za pomoc¹ programów które naby³em i posiadam do nich licencje, czyli kupi³em lub posiadam do niej pe³ne prawo. Niektóre elementy grafiki s¹ na licencji CC0. Tworzê osobn¹ politykê prywatnoœci dla ka¿dego mojego projektu. Je¿eli masz pytania co do projektu lub ciekawe pomys³y na rozwój któregoœ z moich projektów to zapraszam do kontaktu.
+
+PROJEKT
+
+Projekt to dzia³ w którym bêdê umieszczaæ wszystkie moje projekty nad którymi aktualnie pracujê oraz wszystkie jakie uda³o mi siê ukoñczyæ.
+
+Tusonic - Projekt, projekt gier, rybek, pixel shon adventure
