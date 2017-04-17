@@ -1,0 +1,29 @@
+%%title%% %%page%% %%sep%% Projektowanie poziomów w grze 
+
+Projektowanie poziomów w grze oraz dawka informacje na temat aktualnego stanu gry oraz krótki film z projektowania plansz w mojej grze Pixel Shon Adventure.
+
+Projektowanie poziomów w grze
+
+
+
+http://tusonic.pl/devlog-pixel-14-projektowanie-poziomow-grze/
+
+
+DevLog Pixel – #14 Projektowanie poziomów w grze
+
+Kwi 17, 2017 | devlog
+
+
+
+Projektowanie poziomów w grze platformowej jest bardzo wa¿n¹ rzecz¹. To w³aœnie od tego zale¿y czy nasz poziom w grze bêdzie trudny czy te¿ ³atwy. Jak projektuje plansze w mojej grze Pixel Shon Adventure? Odpowiedz nie powinna raczej zdziwiæ osoby, które interesuj¹ siê tematem. Najlepiej moim skromnym zdaniem to projektowanie powinno zaczynaæ siê od  projektowania plansz na kartce. Wolnej chwili kiedy mam czas i wpadnie mi ciekawy pomys³ do g³owy na zaprojektowanie poziomu w grze to wyci¹gam po prostu czyst¹ kartkê i malujê. W pocz¹tkowej fazie mój rysunek przypomina szkic, nastêpnie ulepszam rysunek o dodatkowe elementy.
+
+Aktualnie koñczê projektowaæ przedostatni¹ lokacje. Gra zbli¿a siê ku koñcowi, przyznam szczerze ¿e projektowanie lokacji „pustynia” idzie mi bardzo sprawnie. Ca³y projekt gry nabra³ doœæ sporego têpa co pozwoli mi na (mam tak¹ nadzieje) ukoñczyæ grê do koñca tego miesi¹ca. Potem zostanie ju¿ tylko oprawa dŸwiêkowa. Poni¿ej przedstawiam krótki filmik z mojego ostatniego projektowania poziomu.
+
+Wprowadzi³em kilka ulepszeñ oraz poprawi³em przez was zg³aszane b³êdy. Problem ze sterowaniem na telefonach zosta³ poprawiony, od dziœ koniec problemu z zacinaj¹cymi siê przyciskami. Problem z wyœwietlaniem na niektórych telefonach zosta³ rozwi¹zany, teraz gra wyœwietla siê full screen. Je¿eli nadal uwa¿acie ¿e s¹ jakieœ ra¿¹ce b³êdy w grze lub jest coœ co warto poprawiæ to œmia³o piszcie, a mo¿e by byœcie chcieli zaprojektowaæ jeden z poziomów ? Je¿eli tak, to piszcie.
+
+Gra jest dostêpna ca³y czas w wersji beta na Android i w serwisie Game Jolt oraz tutaj na blogu
+
+ 
+Projektowanie poziomów w grze
+
+https://www.youtube.com/watch?v=1TfvZrUZ_zI
