@@ -1,5 +1,5 @@
-PL: © 2012-2017 TUSONIC.PL Wszelkie prawa zastrze¿one. Strona oraz serwer maj¹ charakter prywatny.
-EN: © 2012-2017 TUSONIC.PL All Rights Reserved. This webpage and server are both private.
+PL: Â© 2012-2017 TUSONIC.PL Wszelkie prawa zastrzeÅ¼one. Strona oraz serwer majÄ… charakter prywatny.
+EN: Â© 2012-2017 TUSONIC.PL All Rights Reserved. This webpage and server are both private.
 
 CSS
 

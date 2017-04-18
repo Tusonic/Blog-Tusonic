@@ -1,22 +1,22 @@
-%%title%% %%page%% %%sep%% 50% gry jest ju¿ gotowe
+%%title%% %%page%% %%sep%% 50% gry jest juÅ¼ gotowe
 
-Prace nad gr¹ Pixel Shon Adventure id¹ pe³n¹ par¹. Na chwile obecn¹ ukoñczone jest blisko 50% plansz. Gra bêdzie sk³adaæ siê z 4 ró¿nych lokacji.
+Prace nad grÄ… Pixel Shon Adventure idÄ… peÅ‚nÄ… parÄ…. Na chwile obecnÄ… ukoÅ„czone jest blisko 50% plansz. Gra bÄ™dzie skÅ‚adaÄ‡ siÄ™ z 4 rÃ³Å¼nych lokacji.
 
-prace nad gr¹
+prace nad grÄ…
 
 
 
 http://tusonic.pl/devlog-pixel-12-prace-nad-gra/
 
 
-DevLog Pixel – #12 Prace nad gr¹ id¹ pe³n¹ par¹
+DevLog Pixel â€“ #12 Prace nad grÄ… idÄ… peÅ‚nÄ… parÄ…
 
 Mar 16, 2017 | devlog
 
-Prace nad gr¹ Pixel Shon Adventure id¹ pe³n¹ par¹. Na chwile obecn¹ ukoñczone jest blisko 50% plansz. Gra bêdzie sk³adaæ siê z 4 ró¿nych lokacji co da ³¹cznie 30 plansz. Pixel bêdzie wspierana przez AirConsole, co pozwoli na lepsze sterowanie gr¹. U¿ywaj¹c naszego telefonu jako kontrolera bêdzie mo¿na graæ w Shon`a na przegl¹darce. Gra ostatecznie powinna ukazaæ siê na koniec kwietnia. Nie tylko gra jest rozwijana, ale i blog tak ¿e, w najbli¿szej przysz³oœci planujê trochê zmodernizowaæ stronê oraz dodaæ wiêcej ciekawych wpisów na sam temat tworzenia gier. Poni¿ej najnowszy gameplay z jednej z moich plansz.
+Prace nad grÄ… Pixel Shon Adventure idÄ… peÅ‚nÄ… parÄ…. Na chwile obecnÄ… ukoÅ„czone jest blisko 50% plansz. Gra bÄ™dzie skÅ‚adaÄ‡ siÄ™ z 4 rÃ³Å¼nych lokacji co da Å‚Ä…cznie 30 plansz. Pixel bÄ™dzie wspierana przez AirConsole, co pozwoli na lepsze sterowanie grÄ…. UÅ¼ywajÄ…c naszego telefonu jako kontrolera bÄ™dzie moÅ¼na graÄ‡ w Shon`a na przeglÄ…darce. Gra ostatecznie powinna ukazaÄ‡ siÄ™ na koniec kwietnia. Nie tylko gra jest rozwijana, ale i blog tak Å¼e, w najbliÅ¼szej przyszÅ‚oÅ›ci planujÄ™ trochÄ™ zmodernizowaÄ‡ stronÄ™ oraz dodaÄ‡ wiÄ™cej ciekawych wpisÃ³w na sam temat tworzenia gier. PoniÅ¼ej najnowszy gameplay z jednej z moich plansz.
 
  
-Jak widaæ prace nad gr¹ id¹ pe³na par¹.
+Jak widaÄ‡ prace nad grÄ… idÄ… peÅ‚na parÄ….
 
 
 FILM YOUTUBE

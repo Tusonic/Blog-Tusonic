@@ -1,4 +1,4 @@
-﻿%%title%% %%page%% %%sep%% Poznajcie Pana Węża i Pająka
+%%title%% %%page%% %%sep%% Poznajcie Pana Węża i Pająka
 
 Przeciwnicy w grze, wąż i pająk. Naszym zadaniem w grze będzie unikanie kontaktu z tymi obiektami, ponieważ będą one powodować śmierć naszego bohatera.
 

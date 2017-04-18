@@ -1,19 +1,19 @@
 %%title%% %%page%% %%sep%% Ostateczna decyzja
 
-Bohater w grze jest bardzo wa¿ny. W³aœnie nadszed³ moment na zastanowienie siê jak bêdzie wygl¹daæ g³ówny bohater gry. Trudna by³a to ³atwa decyzja.
+Bohater w grze jest bardzo waÅ¼ny. WÅ‚aÅ›nie nadszedÅ‚ moment na zastanowienie siÄ™ jak bÄ™dzie wyglÄ…daÄ‡ gÅ‚Ã³wny bohater gry. Trudna byÅ‚a to Å‚atwa decyzja.
 
 bohater w grze
 
 http://tusonic.pl/devlog-pixel-06-glowny-bohater-w-grze/
 
 
-DevLog Pixel – #06 G³ówny bohater w grze
+DevLog Pixel â€“ #06 GÅ‚Ã³wny bohater w grze
 
 Lut 1, 2017 | devlog
 
-Bohater w grze jest bardzo wa¿ny. W³aœnie nadszed³ moment na zastanowienie siê jak bêdzie wygl¹daæ g³ówny bohater gry. Nie ukrywam bardzo ciê¿ko by³o mi podj¹æ decyzjê jak bêdzie wygl¹da³a moja g³ówna postaæ.
+Bohater w grze jest bardzo waÅ¼ny. WÅ‚aÅ›nie nadszedÅ‚ moment na zastanowienie siÄ™ jak bÄ™dzie wyglÄ…daÄ‡ gÅ‚Ã³wny bohater gry. Nie ukrywam bardzo ciÄ™Å¼ko byÅ‚o mi podjÄ…Ä‡ decyzjÄ™ jak bÄ™dzie wyglÄ…daÅ‚a moja gÅ‚Ã³wna postaÄ‡.
 
-Wraz z rozwojem gry moja postaæ bêdzie przyjmowaæ ró¿ne formy wygl¹du. W najbli¿szym czasie zamierzam zrobiæ dok³adne sterowanie naszym bohaterem. Przygotowane mam ju¿ przyciski pod urz¹dzenia mobilne, poniewa¿ wstêpnie planuje grê wydaæ na androida oraz na strony internetowe, ró¿ne portale z tematyk¹ gier indie, blog, facebook, itp. Dodatkowo dosz³a dziœ nowa zak³adka BETA w której publikowaæ bêdê projekt mojej gry. Dziêki czemu i wy mo¿ecie tak¿e byæ testerami mojej gry.
+Wraz z rozwojem gry moja postaÄ‡ bÄ™dzie przyjmowaÄ‡ rÃ³Å¼ne formy wyglÄ…du. W najbliÅ¼szym czasie zamierzam zrobiÄ‡ dokÅ‚adne sterowanie naszym bohaterem. Przygotowane mam juÅ¼ przyciski pod urzÄ…dzenia mobilne, poniewaÅ¼ wstÄ™pnie planuje grÄ™ wydaÄ‡ na androida oraz na strony internetowe, rÃ³Å¼ne portale z tematykÄ… gier indie, blog, facebook, itp. Dodatkowo doszÅ‚a dziÅ› nowa zakÅ‚adka BETA w ktÃ³rej publikowaÄ‡ bÄ™dÄ™ projekt mojej gry. DziÄ™ki czemu i wy moÅ¼ecie takÅ¼e byÄ‡ testerami mojej gry.
 
  
 Bohater w grze

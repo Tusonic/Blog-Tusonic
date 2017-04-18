@@ -1,6 +1,6 @@
 %%title%% %%page%% %%sep%% Pan Rybka z Rybnika
 
-Rybek z Rybnika prawie gotowy. Zapraszam wszystkich w najbli¿szym czasie do gry. Dziœ mam dla was kilka ciekawostek na najbli¿sze dni na temat gry Pan Rybka.
+Rybek z Rybnika prawie gotowy. Zapraszam wszystkich w najbliÅ¼szym czasie do gry. DziÅ› mam dla was kilka ciekawostek na najbliÅ¼sze dni na temat gry Pan Rybka.
 
 Rybek
 
@@ -8,15 +8,15 @@ Rybek
 http://tusonic.pl/devlog-pixel-10-pan-rybka-rybek/
 
 
-DevLog Pixel – #10 ZapowiedŸ Rybek
+DevLog Pixel â€“ #10 ZapowiedÅº Rybek
 
 Mar 1, 2017 | devlog
 
-Rybek z Rybnika prawie gotowy. Zapraszam wszystkich w najbli¿szym czasie do gry. Dziœ mam dla was kilka ciekawostek na najbli¿sze dni na temat gry Pan Rybka – Rybek oraz Pixel Shon Adventure, tak wiêc zaczynamy.
+Rybek z Rybnika prawie gotowy. Zapraszam wszystkich w najbliÅ¼szym czasie do gry. DziÅ› mam dla was kilka ciekawostek na najbliÅ¼sze dni na temat gry Pan Rybka â€“ Rybek oraz Pixel Shon Adventure, tak wiÄ™c zaczynamy.
 
-Prace nad gr¹ Pixel Shon Adventure id¹ pe³na par¹, jeszcze w ten weekend bêdzie ods³ona gry w wersji open beta na telefony komórkowe ze systemem android. Bardzo sporo osób z was uwa¿a ¿e gra jest bardzo trudna do przejœcia w pocz¹tkowych fazach gry. Postaram siê to wszystko trochê uproœciæ aby gra by³a bardziej zrozumia³a oraz przyjemniejsza.
+Prace nad grÄ… Pixel Shon Adventure idÄ… peÅ‚na parÄ…, jeszcze w ten weekend bÄ™dzie odsÅ‚ona gry w wersji open beta na telefony komÃ³rkowe ze systemem android. Bardzo sporo osÃ³b z was uwaÅ¼a Å¼e gra jest bardzo trudna do przejÅ›cia w poczÄ…tkowych fazach gry. Postaram siÄ™ to wszystko trochÄ™ uproÅ›ciÄ‡ aby gra byÅ‚a bardziej zrozumiaÅ‚a oraz przyjemniejsza.
 
-Dodatkowo w ten weekend odbêdzie siê premiera mojej starej a zarazem nowej gry, a dok³adnie chodzi o grê Pan Rybka. Gra aktualnie zmieni³a nazwê oraz profil i bêdzie nazywæ siê Rybek. Gra zosta³a wyposa¿ona w nowy ranking oraz grafikê która nawi¹zuje do miasta Rybnik. Rybek jest gr¹ w 100% darmowa jak równie¿ nie posiada ¿adnych reklam. Bêdzie mia³a charaktery prywatny i bêdzie nawi¹zywaæ do promocji miasta Rybnik oraz mojej osoby. Aktualnie gra jest dostêpna na stronie gry.rybnik.pl
+Dodatkowo w ten weekend odbÄ™dzie siÄ™ premiera mojej starej a zarazem nowej gry, a dokÅ‚adnie chodzi o grÄ™ Pan Rybka. Gra aktualnie zmieniÅ‚a nazwÄ™ oraz profil i bÄ™dzie nazywÄ‡ siÄ™ Rybek. Gra zostaÅ‚a wyposaÅ¼ona w nowy ranking oraz grafikÄ™ ktÃ³ra nawiÄ…zuje do miasta Rybnik. Rybek jest grÄ… w 100% darmowa jak rÃ³wnieÅ¼ nie posiada Å¼adnych reklam. BÄ™dzie miaÅ‚a charaktery prywatny i bÄ™dzie nawiÄ…zywaÄ‡ do promocji miasta Rybnik oraz mojej osoby. Aktualnie gra jest dostÄ™pna na stronie gry.rybnik.pl
 
-Planuje te¿ w niedalekiej przysz³oœci wydaæ grê online ale co z tego wyjdzie to jeszcze sam nie wiem.
-Tymczasem jeszcze w ten weekend Rybek bêdzie dostêpny w Sklep Play (Google Play).
+Planuje teÅ¼ w niedalekiej przyszÅ‚oÅ›ci wydaÄ‡ grÄ™ online ale co z tego wyjdzie to jeszcze sam nie wiem.
+Tymczasem jeszcze w ten weekend Rybek bÄ™dzie dostÄ™pny w Sklep Play (Google Play).

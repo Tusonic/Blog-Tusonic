@@ -1,4 +1,4 @@
-﻿%%title%% %%page%% %%sep%% Moja pierwsza zagadka
+%%title%% %%page%% %%sep%% Moja pierwsza zagadka
 
 Zagadka w grze, moja pierwsza zagadka, jak wygląda? Głównym celem naszego bohatera będzie ustawienie dźwigni tak aby otworzyć bramę.
 

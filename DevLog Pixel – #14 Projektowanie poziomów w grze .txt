@@ -1,29 +1,29 @@
-%%title%% %%page%% %%sep%% Projektowanie poziomów w grze 
+%%title%% %%page%% %%sep%% Projektowanie poziomÃ³w w grze 
 
-Projektowanie poziomów w grze oraz dawka informacje na temat aktualnego stanu gry oraz krótki film z projektowania plansz w mojej grze Pixel Shon Adventure.
+Projektowanie poziomÃ³w w grze oraz dawka informacje na temat aktualnego stanu gry oraz krÃ³tki film z projektowania plansz w mojej grze Pixel Shon Adventure.
 
-Projektowanie poziomów w grze
+Projektowanie poziomÃ³w w grze
 
 
 
 http://tusonic.pl/devlog-pixel-14-projektowanie-poziomow-grze/
 
 
-DevLog Pixel – #14 Projektowanie poziomów w grze
+DevLog Pixel â€“ #14 Projektowanie poziomÃ³w w grze
 
 Kwi 17, 2017 | devlog
 
 
 
-Projektowanie poziomów w grze platformowej jest bardzo wa¿n¹ rzecz¹. To w³aœnie od tego zale¿y czy nasz poziom w grze bêdzie trudny czy te¿ ³atwy. Jak projektuje plansze w mojej grze Pixel Shon Adventure? Odpowiedz nie powinna raczej zdziwiæ osoby, które interesuj¹ siê tematem. Najlepiej moim skromnym zdaniem to projektowanie powinno zaczynaæ siê od  projektowania plansz na kartce. Wolnej chwili kiedy mam czas i wpadnie mi ciekawy pomys³ do g³owy na zaprojektowanie poziomu w grze to wyci¹gam po prostu czyst¹ kartkê i malujê. W pocz¹tkowej fazie mój rysunek przypomina szkic, nastêpnie ulepszam rysunek o dodatkowe elementy.
+Projektowanie poziomÃ³w w grze platformowej jest bardzo waÅ¼nÄ… rzeczÄ…. To wÅ‚aÅ›nie od tego zaleÅ¼y czy nasz poziom w grze bÄ™dzie trudny czy teÅ¼ Å‚atwy. Jak projektuje plansze w mojej grze Pixel Shon Adventure? Odpowiedz nie powinna raczej zdziwiÄ‡ osoby, ktÃ³re interesujÄ… siÄ™ tematem. Najlepiej moim skromnym zdaniem to projektowanie powinno zaczynaÄ‡ siÄ™ od  projektowania plansz na kartce. Wolnej chwili kiedy mam czas i wpadnie mi ciekawy pomysÅ‚ do gÅ‚owy na zaprojektowanie poziomu w grze to wyciÄ…gam po prostu czystÄ… kartkÄ™ i malujÄ™. W poczÄ…tkowej fazie mÃ³j rysunek przypomina szkic, nastÄ™pnie ulepszam rysunek o dodatkowe elementy.
 
-Aktualnie koñczê projektowaæ przedostatni¹ lokacje. Gra zbli¿a siê ku koñcowi, przyznam szczerze ¿e projektowanie lokacji „pustynia” idzie mi bardzo sprawnie. Ca³y projekt gry nabra³ doœæ sporego têpa co pozwoli mi na (mam tak¹ nadzieje) ukoñczyæ grê do koñca tego miesi¹ca. Potem zostanie ju¿ tylko oprawa dŸwiêkowa. Poni¿ej przedstawiam krótki filmik z mojego ostatniego projektowania poziomu.
+Aktualnie koÅ„czÄ™ projektowaÄ‡ przedostatniÄ… lokacje. Gra zbliÅ¼a siÄ™ ku koÅ„cowi, przyznam szczerze Å¼e projektowanie lokacji â€pustyniaâ€ idzie mi bardzo sprawnie. CaÅ‚y projekt gry nabraÅ‚ doÅ›Ä‡ sporego tÄ™pa co pozwoli mi na (mam takÄ… nadzieje) ukoÅ„czyÄ‡ grÄ™ do koÅ„ca tego miesiÄ…ca. Potem zostanie juÅ¼ tylko oprawa dÅºwiÄ™kowa. PoniÅ¼ej przedstawiam krÃ³tki filmik z mojego ostatniego projektowania poziomu.
 
-Wprowadzi³em kilka ulepszeñ oraz poprawi³em przez was zg³aszane b³êdy. Problem ze sterowaniem na telefonach zosta³ poprawiony, od dziœ koniec problemu z zacinaj¹cymi siê przyciskami. Problem z wyœwietlaniem na niektórych telefonach zosta³ rozwi¹zany, teraz gra wyœwietla siê full screen. Je¿eli nadal uwa¿acie ¿e s¹ jakieœ ra¿¹ce b³êdy w grze lub jest coœ co warto poprawiæ to œmia³o piszcie, a mo¿e by byœcie chcieli zaprojektowaæ jeden z poziomów ? Je¿eli tak, to piszcie.
+WprowadziÅ‚em kilka ulepszeÅ„ oraz poprawiÅ‚em przez was zgÅ‚aszane bÅ‚Ä™dy. Problem ze sterowaniem na telefonach zostaÅ‚ poprawiony, od dziÅ› koniec problemu z zacinajÄ…cymi siÄ™ przyciskami. Problem z wyÅ›wietlaniem na niektÃ³rych telefonach zostaÅ‚ rozwiÄ…zany, teraz gra wyÅ›wietla siÄ™ full screen. JeÅ¼eli nadal uwaÅ¼acie Å¼e sÄ… jakieÅ› raÅ¼Ä…ce bÅ‚Ä™dy w grze lub jest coÅ› co warto poprawiÄ‡ to Å›miaÅ‚o piszcie, a moÅ¼e by byÅ›cie chcieli zaprojektowaÄ‡ jeden z poziomÃ³w ? JeÅ¼eli tak, to piszcie.
 
-Gra jest dostêpna ca³y czas w wersji beta na Android i w serwisie Game Jolt oraz tutaj na blogu
+Gra jest dostÄ™pna caÅ‚y czas w wersji beta na Android i w serwisie Game Jolt oraz tutaj na blogu
 
  
-Projektowanie poziomów w grze
+Projektowanie poziomÃ³w w grze
 
 https://www.youtube.com/watch?v=1TfvZrUZ_zI

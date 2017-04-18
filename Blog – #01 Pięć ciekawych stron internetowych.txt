@@ -1,30 +1,30 @@
-%%title%% %%page%% %%sep%% Moim zdaniem warto je znaæ
+%%title%% %%page%% %%sep%% Moim zdaniem warto je znaÄ‡
 
-Piêæ ciekawych stron internetowych Strony s¹ bardzo przydatne podczas tworzeniu gier. Bardzo czêsto korzystam z ich pomocy.
+PiÄ™Ä‡ ciekawych stron internetowych Strony sÄ… bardzo przydatne podczas tworzeniu gier. Bardzo czÄ™sto korzystam z ich pomocy.
 
-Piêæ ciekawych stron
+PiÄ™Ä‡ ciekawych stron
 
 
 http://tusonic.pl/piec-ciekawych-stron-internetowych/
 
 
-Blog – #01 Piêæ ciekawych stron internetowych
+Blog â€“ #01 PiÄ™Ä‡ ciekawych stron internetowych
 
 Sty 22, 2017 | blog
 
-Piêæ ciekawych stron internetowych
+PiÄ™Ä‡ ciekawych stron internetowych
 
-Strony s¹ bardzo przydatne podczas tworzeniu gier. Bardzo czêsto korzystam z ich pomocy.
+Strony sÄ… bardzo przydatne podczas tworzeniu gier. Bardzo czÄ™sto korzystam z ich pomocy.
 
-opengameart – Jest to strona internetowa posiadaj¹ca du¿y zasób darmowych grafik, które mo¿emy wykorzystaæ do celów komercyjnych jak równie¿ do celów niekomercyjnych. Je¿eli mamy problem z namalowaniem np. jakiekolwiek postaci albo szukamy inspiracji warto zajrzeæ na te strony, poniewa¿ bardzo du¿o grafik opiera siê tam na licencji CC0.
+opengameart â€“ Jest to strona internetowa posiadajÄ…ca duÅ¼y zasÃ³b darmowych grafik, ktÃ³re moÅ¼emy wykorzystaÄ‡ do celÃ³w komercyjnych jak rÃ³wnieÅ¼ do celÃ³w niekomercyjnych. JeÅ¼eli mamy problem z namalowaniem np. jakiekolwiek postaci albo szukamy inspiracji warto zajrzeÄ‡ na te strony, poniewaÅ¼ bardzo duÅ¼o grafik opiera siÄ™ tam na licencji CC0.
 
-pixelprospector.com – jest œwietn¹  strona zawieraj¹ca du¿o cennych porad którymi w³aœnie siê kieruje. Strona doskonale opisuje a jednoczeœnie podpowiada na co warto zwracaæ uwagê przy tworzeniu gry. Jedyny minus tej strony to taki, ¿e jest w jêzyku angielskim, co raczej te¿ nie powinno stanowiæ dla nas wiêkszego problemu, teksty s¹ napisane prostym jêzykiem, nie powinno byæ trudnoœci z jego zrozumieniem.
+pixelprospector.com â€“ jest Å›wietnÄ…  strona zawierajÄ…ca duÅ¼o cennych porad ktÃ³rymi wÅ‚aÅ›nie siÄ™ kieruje. Strona doskonale opisuje a jednoczeÅ›nie podpowiada na co warto zwracaÄ‡ uwagÄ™ przy tworzeniu gry. Jedyny minus tej strony to taki, Å¼e jest w jÄ™zyku angielskim, co raczej teÅ¼ nie powinno stanowiÄ‡ dla nas wiÄ™kszego problemu, teksty sÄ… napisane prostym jÄ™zykiem, nie powinno byÄ‡ trudnoÅ›ci z jego zrozumieniem.
 
-gamejolt.com – jest serwisem umo¿liwiaj¹cym wypromowanie naszej gry, a jednoczeœnie daje mo¿liwoœæ zagrania w gry innych  u¿ytkowników  tego serwisu. Na portalu mo¿emy prowadziæ swój w³asny DevLog do czego bardzo gor¹co zachêcam. Nawet uda³o mi siê tak znaleŸæ kilka polskich devlogów które bardzo przyjemnie siê czyta³o.
+gamejolt.com â€“ jest serwisem umoÅ¼liwiajÄ…cym wypromowanie naszej gry, a jednoczeÅ›nie daje moÅ¼liwoÅ›Ä‡ zagrania w gry innych  uÅ¼ytkownikÃ³w  tego serwisu. Na portalu moÅ¼emy prowadziÄ‡ swÃ³j wÅ‚asny DevLog do czego bardzo gorÄ…co zachÄ™cam. Nawet udaÅ‚o mi siÄ™ tak znaleÅºÄ‡ kilka polskich devlogÃ³w ktÃ³re bardzo przyjemnie siÄ™ czytaÅ‚o.
 
-freesound.org – tworzenie gry to nie tylko kodowanie i projektowanie grafiki, to tak¿e tworzenie dŸwiêku. Co je¿eli kiepski z nas muzykant? Na portalu freesound.org znajdziemy bardzo wiele dŸwiêków i utworów, które s¹ na licencji CC0. Zasada dzia³ania portalu bardzo zbli¿ona do opengameart
+freesound.org â€“ tworzenie gry to nie tylko kodowanie i projektowanie grafiki, to takÅ¼e tworzenie dÅºwiÄ™ku. Co jeÅ¼eli kiepski z nas muzykant? Na portalu freesound.org znajdziemy bardzo wiele dÅºwiÄ™kÃ³w i utworÃ³w, ktÃ³re sÄ… na licencji CC0. Zasada dziaÅ‚ania portalu bardzo zbliÅ¼ona do opengameart
 
-piskelapp.com – darmowy edytor grafiki. W³aœnie z t¹ stron¹ rozpoczyna³em moj¹ przygodê z Pixel Art. Edytor jest online ale równie¿ mo¿emy go mieæ w wersji offline. Jak na narzêdzie darmowe jest bardzo dobre i warto siê nim zainteresowaæ je¿eli nie mamy w planach p³atnych programów. Jedna z ciekawych rzeczy to taka ¿e mo¿emy w dowolnym miejscu malowaæ i efekty naszej pracy zapisywaæ w naszej galerii.
+piskelapp.com â€“ darmowy edytor grafiki. WÅ‚aÅ›nie z tÄ… stronÄ… rozpoczynaÅ‚em mojÄ… przygodÄ™ z Pixel Art. Edytor jest online ale rÃ³wnieÅ¼ moÅ¼emy go mieÄ‡ w wersji offline. Jak na narzÄ™dzie darmowe jest bardzo dobre i warto siÄ™ nim zainteresowaÄ‡ jeÅ¼eli nie mamy w planach pÅ‚atnych programÃ³w. Jedna z ciekawych rzeczy to taka Å¼e moÅ¼emy w dowolnym miejscu malowaÄ‡ i efekty naszej pracy zapisywaÄ‡ w naszej galerii.
 
  
-Mam nadziejê ¿e lista piêæ ciekawych stron internetowych przypadnie do gustu.
+Mam nadziejÄ™ Å¼e lista piÄ™Ä‡ ciekawych stron internetowych przypadnie do gustu.

@@ -1,17 +1,17 @@
 %%title%% %%page%% %%sep%% Open Beta na blogu
 
-Otwarta beta tu¿ tu¿. Pierwszy filmik z mojej gry wygl¹da ju¿ doœæ dobrze. Na ten moment zrobionych jest ju¿ parê plansz.
+Otwarta beta tuÅ¼ tuÅ¼. Pierwszy filmik z mojej gry wyglÄ…da juÅ¼ doÅ›Ä‡ dobrze. Na ten moment zrobionych jest juÅ¼ parÄ™ plansz.
 
 otwarta beta
 
 http://tusonic.pl/devlog-pixel-07-otwarta-beta/
 
 
-DevLog Pixel – #07 Nadchodzi otwarta beta
+DevLog Pixel â€“ #07 Nadchodzi otwarta beta
 
 Lut 6, 2017 | devlog
 
-Otwarta beta tu¿ tu¿. Pierwszy filmik z mojej gry wygl¹da ju¿ doœæ dobrze. Na ten moment zrobionych jest ju¿ parê plansz, które umo¿liwi¹ nowemu graczowi zaznajomiæ siê z mechanika gry. W grze zastosowa³em elementy tj. klucze, które s¹ odpowiedzialne za otwieranie bram jak równie¿ laser za pomoc¹, którego bêdzie mo¿na zniszczyæ wszystko co bêdzie stanowi³o przeszkodê w grze. Od jutra zaczynam projektowaæ pierwsz¹ scenerie gry czyli podziemia. Przymierzam siê do pierwszego opublikowania mojej gry, na razie bêdzie to w formie otwartej bety tylko na przegl¹darkê w tym blogu. Ostatecznie gra bêdzie dostêpna na wielu platformach!
+Otwarta beta tuÅ¼ tuÅ¼. Pierwszy filmik z mojej gry wyglÄ…da juÅ¼ doÅ›Ä‡ dobrze. Na ten moment zrobionych jest juÅ¼ parÄ™ plansz, ktÃ³re umoÅ¼liwiÄ… nowemu graczowi zaznajomiÄ‡ siÄ™ z mechanika gry. W grze zastosowaÅ‚em elementy tj. klucze, ktÃ³re sÄ… odpowiedzialne za otwieranie bram jak rÃ³wnieÅ¼ laser za pomocÄ…, ktÃ³rego bÄ™dzie moÅ¼na zniszczyÄ‡ wszystko co bÄ™dzie stanowiÅ‚o przeszkodÄ™ w grze. Od jutra zaczynam projektowaÄ‡ pierwszÄ… scenerie gry czyli podziemia. Przymierzam siÄ™ do pierwszego opublikowania mojej gry, na razie bÄ™dzie to w formie otwartej bety tylko na przeglÄ…darkÄ™ w tym blogu. Ostatecznie gra bÄ™dzie dostÄ™pna na wielu platformach!
 
  
-Otwarta beta bêdzie dostêpna w ten weekend
+Otwarta beta bÄ™dzie dostÄ™pna w ten weekend

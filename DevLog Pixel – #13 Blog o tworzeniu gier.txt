@@ -1,6 +1,6 @@
-%%title%% %%page%% %%sep%% Zdobywa wiêksz¹ popularnoœæ
+%%title%% %%page%% %%sep%% Zdobywa wiÄ™kszÄ… popularnoÅ›Ä‡
 
-Pixel Shon Adventure zdobywa wiêksz¹ popularnoœæ a sam blog o tworzeniu gier zaczyna siê rozrastaæ i byæ coraz to bardziej interesuj¹cy.
+Pixel Shon Adventure zdobywa wiÄ™kszÄ… popularnoÅ›Ä‡ a sam blog o tworzeniu gier zaczyna siÄ™ rozrastaÄ‡ i byÄ‡ coraz to bardziej interesujÄ…cy.
 
 o tworzeniu gier
 
@@ -9,13 +9,13 @@ o tworzeniu gier
 http://tusonic.pl/devlog-pixel-13-blog-o-tworzeniu-gier/
 
 
-DevLog Pixel – #13 Blog o tworzeniu gier
+DevLog Pixel â€“ #13 Blog o tworzeniu gier
 
 Mar 26, 2017 | devlog
 
-Blog o tworzeniu gier zaczyna siê rozrastaæ i byæ co raz to bardziej interesuj¹cy, przek³ada siê to wszystko na to ¿e wiêcej osób wchodzi na stronê, jak równie¿ sama strona zaczyna byæ widoczna w google. Bardzo mnie to cieszy, poniewa¿ trafiam do co raz wiêcej iloœci osób. Parê dni temu wydarzy³  siê drobny incydent, który doprowadzi³ do parali¿u bloga oraz przerwania prac nad Shonem. Aktualnie pracujê nad poziomem z pustynia, oraz poprawiam drobne b³êdy które wynik³y w poprzednich planszach. Chcia³bym wszystkim tym osobom, które graj¹ w moj¹ betê podziêkowaæ za grê! Wszystkie sugestie wys³ane do mnie na temat samej rozgrywki w grze Pixel Shon Adventure s¹ bardzo pomocne. Prace nad gr¹ trochê zwolni³y, spowodowane jest to coraz to wiêkszym zainteresowaniem bloga dla którego te¿ muszê znaleŸæ w koñcu czas.
+Blog o tworzeniu gier zaczyna siÄ™ rozrastaÄ‡ i byÄ‡ co raz to bardziej interesujÄ…cy, przekÅ‚ada siÄ™ to wszystko na to Å¼e wiÄ™cej osÃ³b wchodzi na stronÄ™, jak rÃ³wnieÅ¼ sama strona zaczyna byÄ‡ widoczna w google. Bardzo mnie to cieszy, poniewaÅ¼ trafiam do co raz wiÄ™cej iloÅ›ci osÃ³b. ParÄ™ dni temu wydarzyÅ‚  siÄ™ drobny incydent, ktÃ³ry doprowadziÅ‚ do paraliÅ¼u bloga oraz przerwania prac nad Shonem. Aktualnie pracujÄ™ nad poziomem z pustynia, oraz poprawiam drobne bÅ‚Ä™dy ktÃ³re wynikÅ‚y w poprzednich planszach. ChciaÅ‚bym wszystkim tym osobom, ktÃ³re grajÄ… w mojÄ… betÄ™ podziÄ™kowaÄ‡ za grÄ™! Wszystkie sugestie wysÅ‚ane do mnie na temat samej rozgrywki w grze Pixel Shon Adventure sÄ… bardzo pomocne. Prace nad grÄ… trochÄ™ zwolniÅ‚y, spowodowane jest to coraz to wiÄ™kszym zainteresowaniem bloga dla ktÃ³rego teÅ¼ muszÄ™ znaleÅºÄ‡ w koÅ„cu czas.
 
-Aktualnie jestem na etapie malowania i przyznam szczerze ¿e idzie mi to coraz lepiej. Chcê aby gra jak na moje mo¿liwoœci by³a maksymalnie dopieszczona. Nie chcia³ bym w fazie jej promocji zajmowaæ siê jakimiœ wielkimi poprawkami, mog³o by to siê mocno odbiæ na graczach. Planujê jeszcze do koñca tego miesi¹ca ukoñczyæ plansze (pustynia) a przynajmniej ukoñczyæ ca³¹ grafikê która jest mi niezbêdna. Niestety ca³a gra jest tworzona prze zemnie, przez co sam muszê siê zatroszczyæ o wszystko a nie jest to wcale takie ³atwe. Cieszy mnie fakt  ¿e coraz wiêcej osób gra w wersjê beta na android. Póki co nikt nie zg³asza³ b³êdów albo problemów z dzia³aniem gry na telefon z systemem operacyjnym android. Tak czy owak…
+Aktualnie jestem na etapie malowania i przyznam szczerze Å¼e idzie mi to coraz lepiej. ChcÄ™ aby gra jak na moje moÅ¼liwoÅ›ci byÅ‚a maksymalnie dopieszczona. Nie chciaÅ‚ bym w fazie jej promocji zajmowaÄ‡ siÄ™ jakimiÅ› wielkimi poprawkami, mogÅ‚o by to siÄ™ mocno odbiÄ‡ na graczach. PlanujÄ™ jeszcze do koÅ„ca tego miesiÄ…ca ukoÅ„czyÄ‡ plansze (pustynia) a przynajmniej ukoÅ„czyÄ‡ caÅ‚Ä… grafikÄ™ ktÃ³ra jest mi niezbÄ™dna. Niestety caÅ‚a gra jest tworzona prze zemnie, przez co sam muszÄ™ siÄ™ zatroszczyÄ‡ o wszystko a nie jest to wcale takie Å‚atwe. Cieszy mnie fakt  Å¼e coraz wiÄ™cej osÃ³b gra w wersjÄ™ beta na android. PÃ³ki co nikt nie zgÅ‚aszaÅ‚ bÅ‚Ä™dÃ³w albo problemÃ³w z dziaÅ‚aniem gry na telefon z systemem operacyjnym android. Tak czy owakâ€¦
 
  
-Blog o tworzeniu gier zdobywa coraz wiêcej fanów!
+Blog o tworzeniu gier zdobywa coraz wiÄ™cej fanÃ³w!

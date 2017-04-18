@@ -1,6 +1,6 @@
 %%title%% %%page%% %%sep%% Pixel Shon Adventure
 
-Statystyki Gry Pixel Shon Adventure nie wygl¹daj¹ najgorzej. Jak widaæ nie jest a¿ tak Ÿle, jak na skromny mój bud¿et który posiadam.
+Statystyki Gry Pixel Shon Adventure nie wyglÄ…dajÄ… najgorzej. Jak widaÄ‡ nie jest aÅ¼ tak Åºle, jak na skromny mÃ³j budÅ¼et ktÃ³ry posiadam.
 
 statystyki gry
 
@@ -8,21 +8,21 @@ statystyki gry
 http://tusonic.pl/devlog-pixel-09-pierwsze-statystyki-gry/
 
 
-DevLog Pixel – #09 Pierwsze Statystyki Gry Open Beta
+DevLog Pixel â€“ #09 Pierwsze Statystyki Gry Open Beta
 
 Lut 23, 2017 | devlog
 
-Statystyki Gry Pixel Open Beta nie wygl¹daj¹ najgorzej.
+Statystyki Gry Pixel Open Beta nie wyglÄ…dajÄ… najgorzej.
 
-Jak widaæ nie jest a¿ tak Ÿle, jak na skromny bud¿et. Muszê siê wam pochwaliæ, ¿e osoby które zagra³y w moja grê wyrazi³o pozytywne zdanie. Trochê ubolewam nad tym ¿e bêdê musia³ poprawiæ plansze ze wzglêdu na poziom trudnoœci, poniewa¿ spora czêœæ osób graj¹c w moj¹ grê mia³a problem z jej przejœciem. Planuje do koñca tygodnia wypuœciæ wersje mojej gry na telefon. Jestem doœæ zapracowany nad tworzeniem i udoskonalaniem gry Pixel dlatego rzadziej dzielê siê z wami moimi postêpami. Od dzisiaj moja gra ma now¹ nazwê: Pixel Shon Adventure.
+Jak widaÄ‡ nie jest aÅ¼ tak Åºle, jak na skromny budÅ¼et. MuszÄ™ siÄ™ wam pochwaliÄ‡, Å¼e osoby ktÃ³re zagraÅ‚y w moja grÄ™ wyraziÅ‚o pozytywne zdanie. TrochÄ™ ubolewam nad tym Å¼e bÄ™dÄ™ musiaÅ‚ poprawiÄ‡ plansze ze wzglÄ™du na poziom trudnoÅ›ci, poniewaÅ¼ spora czÄ™Å›Ä‡ osÃ³b grajÄ…c w mojÄ… grÄ™ miaÅ‚a problem z jej przejÅ›ciem. Planuje do koÅ„ca tygodnia wypuÅ›ciÄ‡ wersje mojej gry na telefon. Jestem doÅ›Ä‡ zapracowany nad tworzeniem i udoskonalaniem gry Pixel dlatego rzadziej dzielÄ™ siÄ™ z wami moimi postÄ™pami. Od dzisiaj moja gra ma nowÄ… nazwÄ™: Pixel Shon Adventure.
 
-Zdradzê wam moj¹ ma³¹ tajemnicê, a wiêc aplikacja Pan Rybka w najbli¿szym czasie doczeka siê sporej aktualizacji.
+ZdradzÄ™ wam mojÄ… maÅ‚Ä… tajemnicÄ™, a wiÄ™c aplikacja Pan Rybka w najbliÅ¼szym czasie doczeka siÄ™ sporej aktualizacji.
 
-Iloœæ unikalnych osób które ukoñczy³y poszczególny poziom.
-£¹czna unikalna iloœæ osób: 100, czyli prosty rachunek 100 osób = 100%
+IloÅ›Ä‡ unikalnych osÃ³b ktÃ³re ukoÅ„czyÅ‚y poszczegÃ³lny poziom.
+ÅÄ…czna unikalna iloÅ›Ä‡ osÃ³b: 100, czyli prosty rachunek 100 osÃ³b = 100%
 
  
-Statystyki gry: 10.02 – 20.02
+Statystyki gry: 10.02 â€“ 20.02
 
 
 -----------------
