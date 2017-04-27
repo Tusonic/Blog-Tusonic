@@ -1,0 +1,29 @@
+%%title%% %%page%% %%sep%% 
+
+Temat gry jest już wam wszystkim znany a jeżeli nie to zapraszam do gry. Dziś przedstawię wam kilka informacji jaki jest aktualny stan prac nad moją grą. 
+
+Temat gry
+
+
+
+http://tusonic.pl/devlog-pixel-15-informacje-na-temat-gry/
+
+
+DevLog Pixel – #15 Informacje na temat gry oraz aktualny stan prac
+
+Kwi 26, 2017 | devlog
+
+Temat gry jest już wam wszystkim znany a jeżeli nie to zapraszam do gry TUTAJ. Dziś przedstawię wam kilka informacji jaki jest aktualny stan prac nad moją grą. Tak więc zaczynamy:
+
+Gra ukończona jest w 80%,  zostało do stworzenia jeszcze tylko 7 plansz. Mam nadzieję że uda mi się przez weekend majowy trochę nadrobić czasu i przyspieszyć produkcję gry. Powoli małymi kroczkami zbliża się też drugi problem, mianowicie dźwięk w grze. Mam kilka możliwości, ale ostateczną decyzję podejmę kiedy ukończę w 100% wszystkie poziomy. Dźwięk w grze zostawiam na sam koniec, myślę że z tym będzie najmniejszy problem. Obym się nie pomylił bo premierę gry szlag trafi.
+
+Planuję grę wydać w pierwszej kolejności na telefony ze systemem android oraz tutaj na moim blogu w wersji html podobnie jak Pan Rybek. Planuję też wprowadzić w mojej grze technologię airconsole która bardzo mi przypadła do gustu. Aktualnie gra obsługuje pady co pozwala na przyjemniejszą grę na komputerach. Testowałem na dwóch przeglądarkach chrome oraz firefox wykorzystując do tego zwykły pad za kilka groszy, wszystko działa bez większego problemu. Podsumowując wszystko:
+Informacje na temat gry:
+
+Oficjalna Premiera Gry Pixel Shon Adventure na Android: 18.06.2017r.
+Data trochę odległa ale wolę mieć zapas czasu niż się gonić z wydaniem gry.
+
+
+
+
+
