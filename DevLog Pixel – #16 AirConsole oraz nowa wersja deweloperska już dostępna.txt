@@ -1,0 +1,31 @@
+﻿%%title%% %%page%% %%sep%% 
+
+AirConsole jest już dostępny w Pixel Shon Adventure co umożliwi grę na różnych urządzeniach. Naszym padem w grze będzie nasz telefon!
+
+AirConsole
+
+
+
+http://tusonic.pl/devlog-pixel-16-airconsole-oraz-nowa-wersja-deweloperska/
+
+
+DevLog Pixel – #16 AirConsole oraz nowa wersja deweloperska już dostępna
+
+Maj 4, 2017 | devlog
+
+
+
+AirConsole jest już dostępny w Pixel Shon Adventure co umożliwi grę na różnych urządzeniach takich jak np. telewizor. Tak jak pisałem wcześniej, technologia AirConsole bardzo mi przypadła do gustu. Spodobała mi się tak mocno, że postanowiłem ją  wykorzystać w mojej grze. Na czym polega cała ta technologia? Odpowiedz jest bardzo prosta, nasz smartphone przejmuje funkcję pada za pomocą którego sterujemy naszym bohaterem. Wystarczy pobrać z Google Play oficjalną aplikację AirConsole oraz wejść TUTAJ, następnie wpisać 6 cyfrowy kod który znajduję się w prawym górnym rogu (obok napisu full screen) i można testować grę. Gra oficjalnie nie jest jeszcze dodana do portalu, ponieważ nie jest jeszcze skończona. Całość jest dostępne w wersji testowej. AirConsole wymaga autoryzacji przy testach, możemy użyć naszego konta Google lub po prostu stworzyć nowe testowe. Na samej platformie jest dość sporo ciekawych gier, w większości są to gry multiplayer.
+
+Udostępniona jest też nowa wersja Pixel Shon Adventure (BETA), od dziś wszystkie plansze są odblokowane oraz jesteśmy nieśmiertelni. Pozwoli mi oraz wam lepiej poznać grę, a co za tym idzie opinie na temat wszystkich planszach. Przyznam szczerze że gdyby nie Jimmy który prowadzi bardzo ciekawy BLOG i dał mi dużo cennych uwag, najprawdopodobniej bym takiej wersji chyba nie udostępnił. Wiem że kilka osobom ten pomysł także przypadł mocno do gustu. Pixel Shon Adventure w tej wersji na razie zostaje do odwołania. Ta sama wersja będzie dostępna w Google Play TUTAJ dzięki czemu będzie można grę także testować na telefonach.
+
+Aktualnie w wolnych chwilach tworzą grafikę do ostatnich 7 poziomów i będę przymierzać się do gruntownych poprawek które zostały mi zgłoszone przez was. Jeżeli będziecie posiadać jakiekolwiek uwagi co do plansz czy też samej mechaniki gry to śmiało piszcie. Przynajmniej od dziś nie będzie konieczne przechodzenie wszystkiego od nowa aby poznać kolejne poziomy które będę budować 🙂
+
+ 
+AirConsole – Pixel Shon Adventure
+
+
+
+
+
+
