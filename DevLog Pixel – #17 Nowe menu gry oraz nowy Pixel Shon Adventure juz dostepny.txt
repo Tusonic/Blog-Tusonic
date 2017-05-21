@@ -1,0 +1,33 @@
+﻿%%title%% %%page%% %%sep%%
+
+DevLog Pixel – #17 Nowe menu gry oraz nowy Pixel Shon Adventure juz dostepny
+
+Cała gra, menu gry, wszystko zmienione. Nowy UPDATE Pixel Shon Adventure już dostępny tradycyjnie zapraszam wszystkich do testów i dzielenia się opinią.
+
+Menu gry
+
+
+http://tusonic.pl/devlog-pixel-17-nowe-menu-gry-oraz-nowy-pixel-shon-adventure-juz-dostepny
+
+
+DevLog Pixel – #17 Nowe menu gry oraz nowy Pixel Shon Adventure juz dostepny
+
+Maj 21, 2017 | devlog
+
+
+
+Menu gry jak i sama gra a nawet scenariusz do gry całkowicie zmieniony. Nowy UPDATE Pixel Shon Adventure już dostępny tradycyjnie zapraszam wszystkich do testów i dzielenia się opinią.
+
+Witam wszystkich po dłuższej przerwie która spowodowana była ogromnymi pracami nad grą i nie tylko. Jak już nie którzy się zorientowali ostatni update wprowadził ogrom zmian w Pixel Shon Adventure. Zdecydowałem że podzielę grę na cztery różne części. Ostatnie prace skupiały się na czwartym świecie (CASTLE) tak więc podąłem decyzję że będzie to właśnie osobna gra.
+
+Zaczynamy pracę od nowa, no może nie zupełnie od nowa, bo część mechanik które zostały stworzone zostaną wykorzystane. Grafika zostanie uszczuplona co pozwoli zmniejszyć wymagania co do samej gry. Pozwoli mi to też w dużej mierze skupić się nad samą grą oraz jej mechaniką. Wcześniej 90% prac oraz czasu spędzałem nad grafiką, nie było to może najgorsze rozwiązanie, na szczęście to co namalowałem wcześniej mogę zawsze wykorzystać w nowej wersji mojej gry.
+
+Dzięki doświadczeniu które zdobyłem już wcześniej udało mi się nowego Pixela wykonać w bardzo krótkim czasie, a to oznacza że będę mógł się skupić w dużo większej mierze na mechanice gry, a nie tylko na grafice. Pozwoli mi to na budowanie w dużo szybszym tempie kolejnych poziomów. Gra planowo tak jak wcześniej to zaplanowałem będzie miała około czterdziestu poziomów.
+
+Pixel Shon Adventure jest już dostępny w nowej wersji na ANDROID oraz na STRONIE INTERNETOWEJ
+
+
+
+
+
+
