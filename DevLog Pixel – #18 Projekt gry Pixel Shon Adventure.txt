@@ -1,0 +1,44 @@
+﻿%%title%% %%page%% %%sep%% coraz to bliżej ukończeniu
+
+DevLog Pixel – #18 Projekt gry Pixel Shon Adventure
+
+
+Projekt gry Pixel Shon Adventure coraz to bliski ukończeniu! Czasami trzeba zrobić krok w tył aby móc zrobić dwa kroki do przodu.
+
+Projekt gry
+
+
+http://tusonic.pl/devlog-pixel-18-projekt-gry-pixel-shon-adventure/
+
+
+
+DevLog Pixel – #18 Projekt gry Pixel Shon Adventure - coraz to bliżej ukończeniu
+
+Cze 6, 2017 | devlog
+
+
+
+Projekt gry Pixel Shon Adventure coraz to bliski ukończeniu! Czasami trzeba zrobić krok w tył aby móc zrobić dwa kroki do przodu. Nowa wersja gry cieszy się znacznie większa popularnością niż poprzednia. Przypominam wszystkim że cały czas jest to demo i mogą występować liczne bug`i.
+Dzięki wszystkim za feedback jaki dostarczacie mi w różnych formach na temat gry. Jeżeli ktoś ma ochotę na stworzenie własnego poziomu w mojej grze to chętnie zapraszam do współpracy, każda pomoc mile widziana. 
+
+Poniżej kilka informacji na temat prac nad grą.
+- gra ukończona w 20%
+- nadal brak pomysłu na muzykę
+- chwilowy brak wsparcia airconsole (ale będzie!)
+- bug: brak możliwości atakowania podczas chodzenia, skakania
+
+Jak widać w ciągu zaledwie 14 dni udało mi się ukończyć blisko 10 poziomów, gdzie wcześniej potrzebowałem na ukończenie 20 poziomów blisko 5 miesięcy. Czym to było spowodowane? Grafiką! Mogę więcej czasu teraz poświęcić na programowaniu mechaniki gry oraz projektowaniu kolejnych poziomów. Grafika na wszystkich poziomach ostatecznie zostanie poprawiona o różne elementy i szczegóły aby uatrakcyjnić samą grę, ale tym oraz muzyką zajmę się na samym końcu. 
+
+Zapraszam wszystkich do testowania gry, gra aktualnie znajduję się w trzech miejscach:
+1. Sklep Play (Android) - TUTAJ
+2. Wersja przeglądarkowa - TUTAJ
+3. GameJolt - TUTAJ
+
+Projekt gry oraz grafika do gry jest cały czas rozwijana. Poniżej kilka screen z gry.
+
+
+
+
+
+
+
