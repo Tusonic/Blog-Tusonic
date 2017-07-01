@@ -1,0 +1,42 @@
+﻿%%title%% %%page%% %%sep%% update!
+
+DevLog Pixel – #19 Statystyki gry, nowe pomysły, podsumowanie moich poczynań
+
+Lip 1, 2017 | devlog
+
+Przedstawiam wam kolejne statystyki moich poczynań związanych z produkcją gry Pixel Shon Adventure. Dziś weźmiemy pod uwagę tylko i wyłącznie androida.
+
+Statystyki
+
+
+http://tusonic.pl/devlog-pixel-19-statystyki-gry/
+
+
+
+Przedstawiam wam kolejne statystyki moich poczynań związanych z produkcją gry Pixel Shon Adventure. Dziś weźmiemy pod uwagę tylko i wyłącznie ilość instalacji gry w wersji beta na telefonach z systemem operacyjnym Android.
+
+ 
+Statystyki
+
+[ OBRAZ - STATYSTYKI1.JPG ]
+
+Jak widać, poprzednia wersja android nie cieszyła się dużą popularnością w porównaniu do aktualnej która to pierwszy raz została wprowadzona na początku czerwca. Jak widać na wykresie popularność w czerwcu znacznie wzrosła w stosunku do poprzednich miesięcy.
+Wielkie dzięki za wszelkie sugestię które dostaję, w czerwcu dostałem ich dość bardzo dużo, dzięki czemu udało mi się kilka błędów w  grze poprawić.
+
+Co nowego w aktualnej wersji ?
+
+    [Dodano] – 4 nowe plansze, aktualnie jest już ich 11
+    [Dodano] – nowy system platform
+    [Modyfikacja] – grafika została zoptymalizowana, teraz gra działa bardziej płynnie
+    [Modyfikacja] – level 1-4 został przebudowany, teraz jest łatwiejszy do przejścia
+    [Naprawiono] – animację ukończenia poziomu, nie powoduję zawieszania gry
+
+Nowa wersja gry Pixel Shon Adventure na android jest już dostępna: https://play.google.com/store/apps/details?id=pl.tusonic.pixelshonadventure
+
+
+
+
+
+
+
+
