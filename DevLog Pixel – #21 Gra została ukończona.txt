@@ -1,0 +1,27 @@
+﻿%%title%% %%page%% %%sep%% = DDevLog Pixel – #21 Gra została ukończona
+
+http://tusonic.pl/devlog-pixel-21-gra-zostala-ukonczona/
+
+DevLog Pixel – #21 Gra została ukończona
+
+Wrz 4, 2017 | devlog
+
+Gra została ukończona! Koniec prac nad grą Pixel Shon Adventure, co prawda nadal w Google Play występuje w wersji beta ze względu na liczne test które są prowadzone. Dzięki tak licznym testom oraz zaangażowaniu przez tak wiele osób udało się mi wyeliminować wszystkie nie dociągnięcia. Prace nad grą trwały praktycznie 9 miesięcy, a więc naprawdę sporo czasu. Aktualnie grę w wersji beta pobrano ponad 300 razy i dzięki licznym komentarzom które dostaję za pośrednictwem platformy Google Play udało się wychwycić wiele błędów czy też niedociągnięć. Jeżeli jesteś testerem i uważasz że brakuje twojego nicku lub chciał byś mi pomóc w jakikolwiek sposób to zapraszam do kontaktu zemną.
+
+Premierę gry przewiduję pod koniec miesiąca jak tylko uporam się z ostatecznymi testami gry.
+Wszystkie materiały promocyjne, opis, grafiki i wiele więcej rzeczy zostaną udostępnione za darmo kilka dni przed premierą. Przypomnę jeszcze o tym nie jednokrotnie przed premierą gry.
+
+Przypominam wszystkim hejterom że projekt Pixel Shon Adventure jest moim skromnym projektem z którego nie czerpię żadnych zysków. Umieszczanie reklam w grze także nie będzie miało nigdy miejsca. Gra jest, była i będzie całkowicie za darmo oraz bez żadnych reklam. (edit1: no chyba że projekt ze skali mojego przedpokoju przeniesie się na skale światową.)
+
+Chciał bym podziękować wszystkim osobą które do tej pory przyczyniły się do ukończenia gry. Gra będzie dostępna jeszcze przez kilkanaście dni w wersji beta, aby mogli wszyscy ograć najnowszy update. Musze mieć pewność że w dniu wypuszczania gry będzie jak najmniej błędów.
+
+Tak więc cały czas zachęcam do testowania gry. Debug mode jest aktualnie wyłączony, i nie planuje jego uruchamianie. Gra ostatecznie będzie dostępna na wielu platformach, między innymi AirConsole która bardzo mi przypadła do gustu. Początkowo grę planuję wydać tylko i wyłącznie na Android, a dopiero potem na resztę. Tymczasem:
+Gra cały czas jest dostępna w Google Play
+
+TAG: GRA
+
+Gra została ukończona! Koniec prac nad grą Pixel Shon Adventure, co prawda nadal w Google Play występuje w wersji beta ze względu na liczne test które są prowadzone.
+
+Gra została ukończona! Koniec prac nad grą Pixel Shon Adventure, co prawda nadal w Google Play występuje w wersji beta ze względu na liczne testy.
+
+
