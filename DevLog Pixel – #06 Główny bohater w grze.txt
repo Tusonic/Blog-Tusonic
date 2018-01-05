@@ -1,12 +1,4 @@
-%%title%% %%page%% %%sep%% Ostateczna decyzja
-
-Bohater w grze jest bardzo ważny. Właśnie nadszedł moment na zastanowienie się jak będzie wyglądać główny bohater gry. Trudna była to łatwa decyzja.
-
-bohater w grze
-
-http://tusonic.pl/devlog-pixel-06-glowny-bohater-w-grze/
-
-
+﻿https://tusonic.pl/devlog-pixel-06-glowny-bohater-w-grze/
 DevLog Pixel – #06 Główny bohater w grze
 
 Lut 1, 2017 | devlog

@@ -1,14 +1,5 @@
-%%title%% %%page%% %%sep%% Pixel Shon Adventure
-
-Statystyki Gry Pixel Shon Adventure nie wyglądają najgorzej. Jak widać nie jest aż tak źle, jak na skromny mój budżet który posiadam.
-
-statystyki gry
-
-
-http://tusonic.pl/devlog-pixel-09-pierwsze-statystyki-gry/
-
-
-DevLog Pixel – #09 Pierwsze Statystyki Gry Open Beta
+﻿https://tusonic.pl/devlog-pixel-09-pierwsze-statystyki-gry/
+DevLog Pixel – #09 Pierwsze Statystyki Gry
 
 Lut 23, 2017 | devlog
 
@@ -23,36 +14,3 @@ Ilość unikalnych osób które ukończyły poszczególny poziom.
 
  
 Statystyki gry: 10.02 – 20.02
-
-
------------------
-
-92%
-LEVEL 1.1
-
-55%
-LEVEL 1.5
-
-86%
-LEVEL 1.2
-
-42%
-LEVEL 1.6
-
-74%
-LEVEL 1.3
-
-69%
-LEVEL 1.4
-
-35%
-LEVEL 2.1
-
-24%
-LEVEL 2.2
-
-16%
-LEVEL 2.3
-
-5%
-LEVEL 2.4

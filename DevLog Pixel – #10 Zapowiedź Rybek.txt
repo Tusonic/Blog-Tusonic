@@ -1,13 +1,4 @@
-%%title%% %%page%% %%sep%% Pan Rybka z Rybnika
-
-Rybek z Rybnika prawie gotowy. Zapraszam wszystkich w najbliższym czasie do gry. Dziś mam dla was kilka ciekawostek na najbliższe dni na temat gry Pan Rybka.
-
-Rybek
-
-
-http://tusonic.pl/devlog-pixel-10-pan-rybka-rybek/
-
-
+﻿https://tusonic.pl/devlog-pixel-10-pan-rybka-rybek/
 DevLog Pixel – #10 Zapowiedź Rybek
 
 Mar 1, 2017 | devlog
@@ -19,4 +10,6 @@ Prace nad grą Pixel Shon Adventure idą pełna parą, jeszcze w ten weekend bę
 Dodatkowo w ten weekend odbędzie się premiera mojej starej a zarazem nowej gry, a dokładnie chodzi o grę Pan Rybka. Gra aktualnie zmieniła nazwę oraz profil i będzie nazywć się Rybek. Gra została wyposażona w nowy ranking oraz grafikę która nawiązuje do miasta Rybnik. Rybek jest grą w 100% darmowa jak również nie posiada żadnych reklam. Będzie miała charaktery prywatny i będzie nawiązywać do promocji miasta Rybnik oraz mojej osoby. Aktualnie gra jest dostępna na stronie gry.rybnik.pl
 
 Planuje też w niedalekiej przyszłości wydać grę online ale co z tego wyjdzie to jeszcze sam nie wiem.
+
+ 
 Tymczasem jeszcze w ten weekend Rybek będzie dostępny w Sklep Play (Google Play).

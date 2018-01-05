@@ -1,19 +1,9 @@
-%%title%% %%page%% %%sep%% Zdobywa większą popularność
-
-Pixel Shon Adventure zdobywa większą popularność a sam blog o tworzeniu gier zaczyna się rozrastać i być coraz to bardziej interesujący.
-
-o tworzeniu gier
-
-
-
-http://tusonic.pl/devlog-pixel-13-blog-o-tworzeniu-gier/
-
-
+﻿https://tusonic.pl/devlog-pixel-13-blog-o-tworzeniu-gier/
 DevLog Pixel – #13 Blog o tworzeniu gier
 
 Mar 26, 2017 | devlog
 
-Blog o tworzeniu gier zaczyna się rozrastać i być co raz to bardziej interesujący, przekłada się to wszystko na to że więcej osób wchodzi na stronę, jak również sama strona zaczyna być widoczna w google. Bardzo mnie to cieszy, ponieważ trafiam do co raz więcej ilości osób. Parę dni temu wydarzył  się drobny incydent, który doprowadził do paraliżu bloga oraz przerwania prac nad Shonem. Aktualnie pracuję nad poziomem z pustynia, oraz poprawiam drobne błędy które wynikły w poprzednich planszach. Chciałbym wszystkim tym osobom, które grają w moją betę podziękować za grę! Wszystkie sugestie wysłane do mnie na temat samej rozgrywki w grze Pixel Shon Adventure są bardzo pomocne. Prace nad grą trochę zwolniły, spowodowane jest to coraz to większym zainteresowaniem bloga dla którego też muszę znaleźć w końcu czas.
+Blog o tworzeniu gier zaczyna się rozrastać i być coraz to bardziej interesujący, przekłada się to wszystko na to że więcej osób wchodzi na stronę, jak również sama strona zaczyna być widoczna w google. Bardzo mnie to cieszy, ponieważ trafiam do co raz więcej ilości osób. Parę dni temu wydarzył  się drobny incydent, który doprowadził do paraliżu bloga oraz przerwania prac nad Shonem. Aktualnie pracuję nad poziomem z pustynia, oraz poprawiam drobne błędy które wynikły w poprzednich planszach. Chciałbym wszystkim tym osobom, które grają w moją betę podziękować za grę! Wszystkie sugestie wysłane do mnie na temat samej rozgrywki w grze Pixel Shon Adventure są bardzo pomocne. Prace nad grą trochę zwolniły, spowodowane jest to coraz to większym zainteresowaniem bloga dla którego też muszę znaleźć w końcu czas.
 
 Aktualnie jestem na etapie malowania i przyznam szczerze że idzie mi to coraz lepiej. Chcę aby gra jak na moje możliwości była maksymalnie dopieszczona. Nie chciał bym w fazie jej promocji zajmować się jakimiś wielkimi poprawkami, mogło by to się mocno odbić na graczach. Planuję jeszcze do końca tego miesiąca ukończyć plansze (pustynia) a przynajmniej ukończyć całą grafikę która jest mi niezbędna. Niestety cała gra jest tworzona prze zemnie, przez co sam muszę się zatroszczyć o wszystko a nie jest to wcale takie łatwe. Cieszy mnie fakt  że coraz więcej osób gra w wersję beta na android. Póki co nikt nie zgłaszał błędów albo problemów z działaniem gry na telefon z systemem operacyjnym android. Tak czy owak…
 

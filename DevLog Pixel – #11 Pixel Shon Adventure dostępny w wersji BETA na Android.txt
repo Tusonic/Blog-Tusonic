@@ -1,20 +1,11 @@
-%%title%% %%page%% %%sep%% Download
-
-Pixel Shon Adventure na Androida. Zapraszam wszystkich do testów, mile widziane wszelkie opinie na temat gry. Gra składa się na razie z kilkunastu poziomów.
-
-Pixel Shon Adventure
-
-http://tusonic.pl/devlog-pixel-11-pixel-shon-adventure/
-
-
+﻿https://tusonic.pl/devlog-pixel-11-pixel-shon-adventure/
 DevLog Pixel – #11 Pixel Shon Adventure dostępny w wersji BETA na Android
 
 Mar 2, 2017 | devlog
 
+Pixel Shon Adventure już dostępny dla telefonów ze systemem operacyjnym android.
 
-
-Zapraszam wszystkich do testów, mile widziane wszelkie opinie na temat gry. Gra składa się na razie z kilkunastu plansz, po ostatnich testach wiem że gra jest dość trudna, ale taka właśnie ma być. Jeżeli masz jakieś uwagi co do samej gry, lub coś nie działa prawidłowo to zostaw mi wiadomość! Cały czas pracuję nad Shon`em więc na bieżąco wszystko jest poprawiane. Dzięki wielkie za każdą grę i wszelkie uwagi.
-
+Zapraszam wszystkich do testów, mile widziane wszelkie opinie na temat gry i jej rozgrywki. Gra składa się na razie z kilkunastu plansz w miarę upływu czasu będą dodawane kolejne plansze, po ostatnich testach wiem że gra jest dość trudna, ale taka właśnie ma być. Jeżeli masz jakieś uwagi co do samej gry, lub coś nie działa prawidłowo to zostaw mi wiadomość! Cały czas pracuję nad Shon`em więc na bieżąco wszystko jest poprawiane. Dzięki wielkie za każdą grę i wszelkie uwagi.
 Pixel Shon Adventure link do pobrania z Google Play:
 
 https://play.google.com/store/apps/details?id=pl.tusonic.pixelshonadventure

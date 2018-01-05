@@ -1,12 +1,4 @@
-%%title%% %%page%% %%sep%% Open Beta na blogu
-
-Otwarta beta tuż tuż. Pierwszy filmik z mojej gry wygląda już dość dobrze. Na ten moment zrobionych jest już parę plansz.
-
-otwarta beta
-
-http://tusonic.pl/devlog-pixel-07-otwarta-beta/
-
-
+﻿https://tusonic.pl/devlog-pixel-07-otwarta-beta/
 DevLog Pixel – #07 Nadchodzi otwarta beta
 
 Lut 6, 2017 | devlog

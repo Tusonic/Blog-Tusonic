@@ -1,14 +1,4 @@
-%%title%% %%page%% %%sep%% 50% gry jest już gotowe
-
-Prace nad grą Pixel Shon Adventure idą pełną parą. Na chwile obecną ukończone jest blisko 50% plansz. Gra będzie składać się z 4 różnych lokacji.
-
-prace nad grą
-
-
-
-http://tusonic.pl/devlog-pixel-12-prace-nad-gra/
-
-
+﻿https://tusonic.pl/devlog-pixel-12-prace-nad-gra/
 DevLog Pixel – #12 Prace nad grą idą pełną parą
 
 Mar 16, 2017 | devlog
@@ -17,6 +7,3 @@ Prace nad grą Pixel Shon Adventure idą pełną parą. Na chwile obecną ukońc
 
  
 Jak widać prace nad grą idą pełna parą.
-
-
-FILM YOUTUBE

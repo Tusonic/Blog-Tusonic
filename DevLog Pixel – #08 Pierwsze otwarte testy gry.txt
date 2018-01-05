@@ -1,19 +1,9 @@
-%%title%% %%page%% %%sep%% Testy czas zacząć
-
-Testy gry są dość ważne, co prawda do skończenia gry jeszcze daleko, ale postanowiłem że udostępnię grę w wersji beta tak jak obiecałem w poprzednim wpisie.
-
-testy gry
-
-http://tusonic.pl/devlog-pixel-08-testy-gry/
-
-
+﻿https://tusonic.pl/devlog-pixel-08-testy-gry/
 DevLog Pixel – #08 Pierwsze otwarte testy gry
 
 Lut 10, 2017 | devlog
 
 Testy gry są dość ważne, co prawda do skończenia gry jeszcze daleko, ale postanowiłem że udostępnię grę w wersji beta tak jak obiecałem w poprzednim wpisie. Postaram się za jakiś czas napisać wnioski z tego co wyszło, ile graczy zagrało, ogólne statystyki z open beta testów. Dodatkowo dziś na moim blogu dodałem dodatkową kategorię w której mam zamiar umieszczać wszystkie moje projekty. Ponieważ jest tego trochę, a fajnie jest mieć wszystko w jednym miejscu. Blog jest cały czas aktualizowany co może doprowadzić do tego że ostatecznie zakładki mogą jeszcze ulec zmianie.
 
-A póki co, zapraszam wszystkich na
-
  
-Testy gry – link
+A póki co, zapraszam was wszystkich na testy gry

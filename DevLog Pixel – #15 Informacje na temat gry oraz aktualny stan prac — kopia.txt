@@ -1,14 +1,4 @@
-%%title%% %%page%% %%sep%% 
-
-Temat gry jest już wam wszystkim znany a jeżeli nie to zapraszam do gry. Dziś przedstawię wam kilka informacji jaki jest aktualny stan prac nad moją grą. 
-
-Temat gry
-
-
-
-http://tusonic.pl/devlog-pixel-15-informacje-na-temat-gry/
-
-
+﻿https://tusonic.pl/devlog-pixel-15-informacje-na-temat-gry/
 DevLog Pixel – #15 Informacje na temat gry oraz aktualny stan prac
 
 Kwi 26, 2017 | devlog
@@ -22,8 +12,3 @@ Informacje na temat gry:
 
 Oficjalna Premiera Gry Pixel Shon Adventure na Android: 18.06.2017r.
 Data trochę odległa ale wolę mieć zapas czasu niż się gonić z wydaniem gry.
-
-
-
-
-

@@ -1,19 +1,7 @@
-%%title%% %%page%% %%sep%% Projektowanie poziomów w grze 
-
-Projektowanie poziomów w grze oraz dawka informacje na temat aktualnego stanu gry oraz krótki film z projektowania plansz w mojej grze Pixel Shon Adventure.
-
-Projektowanie poziomów w grze
-
-
-
-http://tusonic.pl/devlog-pixel-14-projektowanie-poziomow-grze/
-
-
+﻿https://tusonic.pl/devlog-pixel-14-projektowanie-poziomow-w-grze/
 DevLog Pixel – #14 Projektowanie poziomów w grze
 
 Kwi 17, 2017 | devlog
-
-
 
 Projektowanie poziomów w grze platformowej jest bardzo ważną rzeczą. To właśnie od tego zależy czy nasz poziom w grze będzie trudny czy też łatwy. Jak projektuje plansze w mojej grze Pixel Shon Adventure? Odpowiedz nie powinna raczej zdziwić osoby, które interesują się tematem. Najlepiej moim skromnym zdaniem to projektowanie powinno zaczynać się od  projektowania plansz na kartce. Wolnej chwili kiedy mam czas i wpadnie mi ciekawy pomysł do głowy na zaprojektowanie poziomu w grze to wyciągam po prostu czystą kartkę i maluję. W początkowej fazie mój rysunek przypomina szkic, następnie ulepszam rysunek o dodatkowe elementy.
 
@@ -25,5 +13,3 @@ Gra jest dostępna cały czas w wersji beta na Android i w serwisie Game Jolt or
 
  
 Projektowanie poziomów w grze
-
-https://www.youtube.com/watch?v=1TfvZrUZ_zI

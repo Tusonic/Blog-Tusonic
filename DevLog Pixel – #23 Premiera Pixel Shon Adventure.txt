@@ -1,4 +1,4 @@
-﻿
+﻿https://tusonic.pl/devlog-premiera-pixel-shon-adventure/
 DevLog Pixel – #23 Premiera: Pixel Shon Adventure
 
 Paź 7, 2017 | devlog
@@ -10,4 +10,6 @@ Premiera gry Pixel Shon Adventure, gra dostępna w pełnej wersji w Google Play,
 Gra ma charakter gry platformowej z elementami gry zręcznościowej o średnio-trudnym stopniu rozgrywki. Gra nie posiada elementów przemocy, dzięki czemu w grę mogą grać wszyscy, niezależnie od wieku, gra dla wszystkich. Prosty system sterowania umożliwia grę na każdym urządzeniu wyposażonym w system operacyjny Android. Jeżeli lubisz klasyczne przygodowe gry 2D z pixel retro grafiką, to pokochasz na pewno i tą grę, ponieważ grafika jest stylizowana na pixel art. Mam nadzieję że gra przypadnie wszystkim do gustu. Życzę dobrej zabawy przy pokonywaniu kolejnych plansz.
 
 Presskit dostępny TUTAJ
-Premiera: Pixel Shon Adventure
+PREMIERA
+
+Download (Google Play) >>> Pixel Shon Adventure <<<

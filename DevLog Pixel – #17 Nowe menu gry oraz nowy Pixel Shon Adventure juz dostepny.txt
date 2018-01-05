@@ -1,20 +1,7 @@
-﻿%%title%% %%page%% %%sep%%
-
-DevLog Pixel – #17 Nowe menu gry oraz nowy Pixel Shon Adventure juz dostepny
-
-Cała gra, menu gry, wszystko zmienione. Nowy UPDATE Pixel Shon Adventure już dostępny tradycyjnie zapraszam wszystkich do testów i dzielenia się opinią.
-
-Menu gry
-
-
-http://tusonic.pl/devlog-pixel-17-nowe-menu-gry-oraz-nowy-pixel-shon-adventure-juz-dostepny
-
-
-DevLog Pixel – #17 Nowe menu gry oraz nowy Pixel Shon Adventure juz dostepny
+﻿https://tusonic.pl/devlog-pixel-17-nowe-menu-gry/
+DevLog Pixel – #17 Nowe menu gry oraz nowy Pixel Shon Adventure już dostępny
 
 Maj 21, 2017 | devlog
-
-
 
 Menu gry jak i sama gra a nawet scenariusz do gry całkowicie zmieniony. Nowy UPDATE Pixel Shon Adventure już dostępny tradycyjnie zapraszam wszystkich do testów i dzielenia się opinią.
 
@@ -26,8 +13,5 @@ Dzięki doświadczeniu które zdobyłem już wcześniej udało mi się nowego Pi
 
 Pixel Shon Adventure jest już dostępny w nowej wersji na ANDROID oraz na STRONIE INTERNETOWEJ
 
-
-
-
-
-
+ 
+Menu gry

@@ -1,7 +1,4 @@
-﻿%%title%% %%page%% %%sep%% = DevLog Pixel – #21 Gra została ukończona
-
-http://tusonic.pl/devlog-pixel-21-gra-zostala-ukonczona/
-
+﻿https://tusonic.pl/devlog-pixel-21-gra-zostala-ukonczona/
 DevLog Pixel – #21 Gra została ukończona
 
 Wrz 4, 2017 | devlog
@@ -17,11 +14,3 @@ Chciał bym podziękować wszystkim osobą które do tej pory przyczyniły się 
 
 Tak więc cały czas zachęcam do testowania gry. Debug mode jest aktualnie wyłączony, i nie planuje jego uruchamianie. Gra ostatecznie będzie dostępna na wielu platformach, między innymi AirConsole która bardzo mi przypadła do gustu. Początkowo grę planuję wydać tylko i wyłącznie na Android, a dopiero potem na resztę. Tymczasem:
 Gra cały czas jest dostępna w Google Play
-
-TAG: GRA
-
-Gra została ukończona! Koniec prac nad grą Pixel Shon Adventure, co prawda nadal w Google Play występuje w wersji beta ze względu na liczne test które są prowadzone.
-
-Gra została ukończona! Koniec prac nad grą Pixel Shon Adventure, co prawda nadal w Google Play występuje w wersji beta ze względu na liczne testy.
-
-
