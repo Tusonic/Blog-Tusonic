@@ -1,12 +1,4 @@
-%%title%% %%page%% %%sep%% Poznajcie Pana Węża i Pająka
-
-Przeciwnicy w grze, wąż i pająk. Naszym zadaniem w grze będzie unikanie kontaktu z tymi obiektami, ponieważ będą one powodować śmierć naszego bohatera.
-
-przeciwnicy w grze
-
-http://tusonic.pl/devlog-pixel-05-przeciwnicy-w-grze/
-
-
+﻿https://tusonic.pl/devlog-pixel-05-przeciwnicy-w-grze/
 DevLog Pixel – #05 Przeciwnicy w grze
 
 Sty 25, 2017 | devlog
@@ -14,3 +6,6 @@ Sty 25, 2017 | devlog
 Przeciwnicy w grze, jako pierwsi wąż i pająk. Naszym zadaniem w grze będzie unikanie kontaktu z tymi obiektami, ponieważ będą one powodować śmierć naszego bohatera.
 
 Grafika węża zostały wykorzystane z portalu w którym mowa w tym wpisie. Trochę je przerobiłem na swoje potrzeby i powstało o to takie dzieło sztuki. Bardzo dużo czasu poświeciłem aby namalować coś podobnego od zera, lecz jest to bardzo trudne. Na szczęście malowanie innych rzeczy nawet mi wychodzi dobrze, przynajmniej tak mi się wydaje. Zauważyłem że im więcej maluje tym coraz to lepsze grafiki mi wychodzą. Pająk jest w całości namalowany przeze mnie i wyszedł mimo swego wyglądu dość dobrze.
+
+ 
+Przeciwnicy w grze

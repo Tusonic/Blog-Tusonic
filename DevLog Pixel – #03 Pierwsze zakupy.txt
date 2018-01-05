@@ -1,19 +1,11 @@
-﻿%%title%% %%page%% %%sep%% Grafika 8-bit w programie graficznym
-
-Pierwsze zakupy i kolejny dzień za nami, a mój projekt gry oraz grafika 8-bit nabrała tempa. Mam już pierwsze stworzone plansze do gry.
-
-pierwsze zakupy
-
-http://tusonic.pl/devlog-pixel-03-pierwsze-zakupy/
-
-
+﻿https://tusonic.pl/devlog-pixel-03-pierwsze-zakupy/
 DevLog Pixel – #03 Pierwsze zakupy
 
 Sty 9, 2017 | devlog
 
 Pierwsze zakupy i kolejny dzień za nami, a mój projekt gry oraz grafika 8-bit nabrała tempa. Mam już pierwsze stworzone plansze do gry, i jestem bardzo ciekaw waszej opinii. Mam nadzieję, ze wam się spodoba. Jak na razie mój główny bohater gry to zielony prostokąt, ale cały czas szukam inspiracji. Gra tymczasowo będzie dostępna na stronie, ponieważ łatwiej się ją tak testuje. Również wy tez możecie jeśli chcecie testować grę. Gra dostępna będzie w zakładce Projekty przez jakiś czas, co uważam to za dobre posunięcie.
 
-Jeśli chodzi o program graficzny w którym wszystkie grafiki będę malować to rozważyłem wcześniej nad darmowym Paint`em lecz podjąłem decyzję że jednak potrzebuje coś lepszego. Aktualnie po wielkich poszukiwaniach znalazłem dość ciekawe narzędzie Pyxel Edit, możemy go mieć w wersji darmowej jak również w wersji płatnej, wersja płatna daje większe możliwości.
+Jeśli chodzi o program graficzny w którym wszystkie grafiki będę malować to rozważyłem wcześniej nad darmowym Paint`em lecz podjąłem decyzję że jednak potrzebuje coś lepszego. Aktualnie po wielkich poszukiwaniach znalazłem dość ciekawe narzędzie Pyxel Edit, możemy go mieć w wersji darmowej jak również w wersji płatnej, wersja płatna daje większe możliwości
 
 W sieci dość sporo jest tego typu darmowych narzędzi. Niestety jakoś żaden nie przypadł mi do gustu. Pyxel Edit w wersji darmowym jest dość potężnym narzędziem. Wersja płatna która kosztuje 9$ umożliwia mi tworzenie animacji, które wykorzystam w grze. Co prawda przez pierwsze 3 dni nie planowałem zakupu płatnego programu, ale tak sobie pomyślałem jako początkujący twórca gier, ze wydanie 9$ nie jest dużym kosztem aby posiadać dożywotnio licencje na jego używanie. Tak więc poszła pierwsza inwestycja w grę.
 

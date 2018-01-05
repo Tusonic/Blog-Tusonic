@@ -1,19 +1,9 @@
-%%title%% %%page%% %%sep%% Moim zdaniem warto je znać
-
-Pięć ciekawych stron internetowych Strony są bardzo przydatne podczas tworzeniu gier. Bardzo często korzystam z ich pomocy.
-
-Pięć ciekawych stron
-
-
-http://tusonic.pl/piec-ciekawych-stron-internetowych/
-
-
+﻿https://tusonic.pl/piec-ciekawych-stron-internetowych/
 Blog – #01 Pięć ciekawych stron internetowych
 
 Sty 22, 2017 | blog
 
 Pięć ciekawych stron internetowych
-
 Strony są bardzo przydatne podczas tworzeniu gier. Bardzo często korzystam z ich pomocy.
 
 opengameart – Jest to strona internetowa posiadająca duży zasób darmowych grafik, które możemy wykorzystać do celów komercyjnych jak również do celów niekomercyjnych. Jeżeli mamy problem z namalowaniem np. jakiekolwiek postaci albo szukamy inspiracji warto zajrzeć na te strony, ponieważ bardzo dużo grafik opiera się tam na licencji CC0.

@@ -1,12 +1,4 @@
-%%title%% %%page%% %%sep%% Moja pierwsza zagadka
-
-Zagadka w grze, moja pierwsza zagadka, jak wygląda? Głównym celem naszego bohatera będzie ustawienie dźwigni tak aby otworzyć bramę.
-
-zagadka w grze
-
-http://tusonic.pl/devlog-pixel-04-zagadka-w-grze/
-
-
+﻿https://tusonic.pl/devlog-pixel-04-zagadka-w-grze/
 DevLog Pixel – #04 Zagadka w grze
 
 Sty 13, 2017 | devlog
@@ -17,5 +9,5 @@ Gra nabiera coraz większego tempa, Pyxel Edit to jednak dobre narzędzie do two
 
 Teraz czas na konkrety, w grze początkowe plansze będą dość proste aby nowy gracz mógł się zapoznać z mechaniką gry oraz sterowaniem. Uważam że jest to dość ważna kwestia, ponieważ trudniejsze plansze od razu mogą zniechęcić gracza w pierwszej fazie gry. Sama gra będzie posiadała cechy gry zręcznościowej o średnio – trudnym stopniu. Aktualnie co kilkanaście plansz planuje robić zagadki, co sprawi w oczach gracza ciekawość co będzie dalej.
 
-
+ 
 Moja zagadka w grze.
