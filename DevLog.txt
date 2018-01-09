@@ -1,7 +1,0 @@
-Tusonic.PL/DevLog
-
-Tusonic - DevLog Gry Pixel Shon Adventur - Gra platformowa
-
-DevLog Gry
-
-DevLog Gry - produkcja gry, kategoria mojego bloga w której umieszczam wpisy na temat prac związanych z produkcją mojej gry Pixel Shon Adventure
