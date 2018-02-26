@@ -1,0 +1,12 @@
+﻿https://tusonic.pl/blog-05-wracamy-gry-dluzszej-przerwie/
+
+Blog – #05 Wracamy do gry po dłuższej przerwie!
+Lut 25, 2018 | blog
+
+Wracamy do gry po dłuższej przerwie!
+Przerwa w prowadzeniu bloga spowodowana sytuacjami losowymi. Na szczęście wszystko już wróciło do normy. Tak jak wcześniej pisałem będę zajmować się produkcją nowej gry!
+Jedna z moich dość ubogich hybrydowych aplikacji (html + android) Kostka do gry przekroczyła 5 tysięcy pobrań!
+W tym roku aplikacja została mocno zauważona, nigdy nie była reklamowana i stworzona została tylko w celach poznania środowiska programu Android Studio + jQuery.Mobile. Aplikacja mimo wszystko cieszy się bardzo dużą popularnością co mnie cieszy. Dokładnie jeszcze nie wiem dlaczego aplikacja w tak krótkim czasie zyskała tak duża popularność, ale bardzo szybko zbliżą się do 10 tysięcy pobrań! Jest bardzo duża szansa że jeszcze w tym miesiącu przekroczy kolejny magiczny próg 10 tysiecy pobrań!
+Aplikacja jest bardzo prosta w użytkowaniu i służy do zastąpienia prawdziwej kostki do gry w grach planszowych. Czyżby pod choinkę dzieci w grach planszowych pogubiły kostki do gry ? 😉 Aplikacja tak jak wszystkie moje dotychczasowe aplikacje jest pozbawiona reklam.
+Jak widać drobna aplikacja stworzona w 1 dzień też może odnieść drobny sukces!  Aplikacja została opublikowana 21 września 2015 roku, lecz to w tym roku notuję bardzo ogromne wzrosty pobrań mojej skromnej aplikacji! Już niebawem krótki kurs tworzenia takich hybryd!
+Jak stworzyć hybrydową aplikację? Już niebawem! Wracamy do gry!
