@@ -1,0 +1,167 @@
+﻿https://tusonic.pl/blog-06-kostka-gry-przekroczyla-magiczne-10-000-pobran-google-play/
+
+Blog – #06 Kostka do gry przekroczyła magiczne 10000 pobrań w Google Play!
+Lut 27, 2018 | blog
+
+
+Kostka do gry przekroczyła magiczne 10 000 pobrań! Wynik dość zaskakujący jak na aplikację która nigdy nie była rozwijana a jej produkcja trwała aż jeden dzień!
+
+Jak to wszystko wygląda w liczbach? Poniżej krótka historia i ogólny wykres pobrań aplikacji w czasie.
+
+Aplikacja została opublikowana 21 września 2015 roku
+
+1 styczeń 2016 = 14 pobrań, całkiem niezły wynik można powiedzieć , ale aplikacja była stworzona tylko i wyłącznie w celach ‚naukowych’ więc ilość pobrań mnie nie zraziła, a i tak  pewnie połowa to moi znajomi! 🙂
+1 styczeń 2017 = 545 pobrań, wynik rewelacyjny, jak na tak prostą aplikację, jest sie już czym chwalić!
+27 luty 2018 = 10000 pobrań, mówiąc szczerze to nie wiem co się stało, fabryka kostek upadła?
+
+Gdyby nie liczne wiadomości i sugestie które otrzymywałem to nawet bym się nie zorientował że aplikacja cieszy się tak duża popularnością!  Poniżej krótki (html) kod mojej aplikacji, nie będę umieszczać wszystkich plików z Android Studio, jQuery.mobile, js, css... bo na chwile obecną nie ma to po prostu sensu.
+
+Tworzenie prostych aplikacji przedstawię w osobnym kursie! Dziś chcę tylko tym co mają jakiekolwiek pojęcie o kodowaniu pokazać że znając dość prosty język programowania można już zaszaleć i tworzyć coś na urządzenia mobilne! Jeżeli jQuery.mobile nie przypadnie nam do gustu warto sprawdzić Framework7,  Każdy z nich jest świetny i posiada obszerną dokumentację!
+
+ 
+Kostka do gry
+
+    <div data-role=”page” id=”menu”>
+
+     
+
+    <div data-role=”header”>
+    <h1>KOSTKA</h1>
+    </div>
+
+     
+
+    <div data-role=”main” class=”ui-content”>
+
+     
+
+    <center><img src=”img/k6.png”> <img src=”img/k6.png”><center>
+    <form>
+
+     
+
+    <div data-role=”main” class=”ui-content”>
+    <a href=”#kostka1″ class=”ui-btn”>KOSTKA</a>
+    <a href=”#kostka2″ class=”ui-btn”>WIELE KOSTEK</a>
+    <a href=”#moneta” class=”ui-btn”>MONETA</a>
+    </div>
+
+     
+
+    </form>
+    </div>
+
+     
+
+    </div>
+
+     
+
+    <div data-role=”page” id=”kostka1″>
+    <div data-role=”header”>
+    <h1>KOSTKA</h1>
+    </div>
+    <div data-role=”main” class=”ui-content”>
+
+     
+
+    <form>
+    <label id=”Top” for=”sliderDiceToRoll”><center>Pojedyncza Kostka</center></label>
+
+     
+
+    <div data-role=”main” class=”ui-content”>
+    <a id=”mona” href=”#” class=”ui-btn”>LOSUJ</a>
+    </div>
+    <hr>
+    <center> <div id=”Kostka2″>  </center>
+    </div>
+
+     
+
+    <center> <hr> <a href=”#” class=”ui-btn ui-btn-inline” onclick=”location.reload(true); return false;”>USUŃ</a>
+    <a href=”#menu” class=”ui-btn ui-btn-inline ui-btn-b”>MENU</a> </center>
+
+     
+
+    </form>
+    </div>
+
+     
+
+    </div>
+    <div data-role=”page” id=”kostka2″>
+
+     
+
+    <div data-role=”header”>
+    <h1>KOSTKA</h1>
+    </div>
+
+     
+
+    <div data-role=”main” class=”ui-content”>
+
+     
+
+    <form>
+    <label id=”Top” for=”sliderDiceToRoll”><center>Ilość kości która zostanie użyta</center></label>
+    <input type=”range” name=”slider” id=”sliderDiceToRoll” value=”3″ min=”1″ max=”10″ />
+
+     
+
+    <div data-role=”main” class=”ui-content”>
+    <a id=”gen” href=”#” class=”ui-btn”>LOSUJ</a>
+    </div>
+    <div id=”Large”>Razem: <span id=”aran”></span> </div><hr>
+    <div id=”Kostka”></div>
+
+     
+
+    <center> <hr> <a href=”#” class=”ui-btn ui-btn-inline” onclick=”location.reload(true); return false;”>USUŃ</a>
+    <a href=”#menu” class=”ui-btn ui-btn-inline ui-btn-b”>MENU</a> </center>
+
+     
+
+    </form>
+    </div>
+    </div>
+
+     
+
+    <div data-role=”page” id=”moneta”>
+
+     
+
+    <div data-role=”header”>
+    <h1>KOSTKA</h1>
+    </div>
+
+     
+
+    <div data-role=”main” class=”ui-content”>
+
+     
+
+    <form>
+    <label id=”Top” for=”sliderDiceToRoll”><center>Moneta</center></label>
+
+     
+
+    <div data-role=”main” class=”ui-content”>
+    <a id=”mon” href=”#” class=”ui-btn”>LOSUJ</a>
+    </div>
+    <hr>
+    <center> <div id=”Moneta”></div> </center>
+
+     
+
+    <center> <hr> <a href=”#” class=”ui-btn ui-btn-inline” onclick=”location.reload(true); return false;”>USUŃ</a>
+    <a href=”#menu” class=”ui-btn ui-btn-inline ui-btn-b”>MENU</a> </center>
+
+     
+
+    </form>
+    </div>
+    </div>
+
