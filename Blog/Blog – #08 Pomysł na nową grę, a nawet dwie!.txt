@@ -1,0 +1,19 @@
+﻿https://tusonic.pl/pomysl-na-nowa-gre-a-nawet-dwie/
+Blog – #08 Pomysł na nową grę, a nawet dwie!
+
+Kwi 24, 2018 | blog
+
+Pomysł na nową grę już w głowie. Zgodnie z wcześniejszymi zapowiedziami, przystępuję do realizacji planów które sobie wyznaczyłem na ten rok. Jeżeli chodzi o wydanie gry to planuję wydać sequel Pixel Shon Adventure, mówiłem o tym między innymi na portalu Ustatkowany Gracz – artykuł w całości do przeczytania TUTAJ
+
+[…]
+
+Ustatkowany Gracz: Czy planujecie rozwijać Pixel Shon Adventure? Gracze mogą spodziewać się nowych poziomów?
+
+Tomasz Kaźmierczak: Gra już nie będzie rozwijana; zostaje w takiej formie w jakiej jest obecnie, ale przymierzam się do stworzenia drugiej jej części, która – mam nadzieję – będzie nie tylko lepsza, ale i zaoferuje większą ilość poziomów. Jestem teraz bogatszy o doświadczenie, więc gra powinna powstać znacznie szybciej.
+
+[…]
+
+ 
+
+Kod który napisałem w Android Studio (JAVA) do umieszczania hybrydowych aplikacji umieszczę na blogu ZA DARMO oraz na CODECANYOU.NET, sprawdzimy czy da się na tym zarobić! Dobrym przykładem do zrobienia kursu będzie prosta aplikacja napisana w HTML (Bootstrap) która będzie w wersji mobilnej oraz przeglądarkowej. Całość będzie w formie darmowego kursu. Aplikacja będzie związana z świnkami morskimi czyli: odwieczny problem na wielu grupach, co może jeść nasza świnka morska. Mam nadzieję że aplikacja będzie przydatna. Nie planuję aplikacji specjalnie w jakikolwiek sposób reklamować, główną ideą jest tutaj pokazanie jak w prosty sposób można coś stworzyć mobilnego na telefony z Androidem.
+Jest też pomysł na nową grę przeglądarkową gra via www, tutaj będzie trochę trudniej, ale myślę że wszystko jest do opanowania!
