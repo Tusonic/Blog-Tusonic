@@ -1,0 +1,50 @@
+https://tusonic.pl/devlog-pixel2-02-kilka-dobrych-zmian/
+
+
+DevLog Pixel2 – #02 Kilka dobrych zmian
+
+Cze 7, 2018 | devlog
+
+Kilka dobrych zmian wprowadzi³em w Pixel Shon Adventure 2. Mam nadziejê ¿e zmiany te przypadn¹ wam do gustu. Prace nad gr¹ trwaj¹ ju¿ ponad miesi¹c, ale zdecydowanie id¹ szybciej ni¿ w poprzednim roku przy produkcji pierwszej czêœci. Poni¿ej krótka lista dokonañ w projekcie na chwilê obecn¹.
+
+    Zmiany
+
+• Atakowanie podczas skoku oraz podczas ruchu
+
+Wczeœniej: brak, bardzo du¿o maili z proœb¹ o wprowadzenie, lecz pierwsza ods³ona gry nigdy nie doczeka³a siê tego.
+Aktualnie: jest i dzia³a bardzo dobrze, animacje s¹ przerysowane od zera, a ca³a mechanika napisana od nowa.
+
+• System kluczy i bram
+
+Wczeœniej: aby otworzyæ bramê trzeba by³o zdobyæ klucz który to pojawi¹ siê nad nasz¹ g³ow¹ i znika³ wraz z otwarciem bramy przypisanej do klucza, czyli np. ¿ó³ty klucz otwiera³ ¿ó³ta bramê. Gdy postaæ umiera³a na danym poziomie ca³y system kluczy siê resetowa³.
+Aktualnie: gdy giniemy na danym poziomie system klucz siê nie resetuje. Animacja kluczy lekko zmieniona, teraz klucz nie „p³ywa” nad nasz¹ g³ow¹, a jest wyœwietlany w lewym górnym rogu ekranu. P³ywaj¹cy klucz za postaci¹ przypad³ co prawda wszystkim do gustu, lecz postanowi³em to lekko zmodernizowaæ.
+
+• Œmieræ
+
+Wczeœniej: resetowa³o ca³y poziom oraz gra wraca³a do menu wyboru plansz
+Aktualnie: nie resetuje ca³ego poziomu (system kluczy itp.) i nie wraca do menu wyboru planszy, tylko automatycznie wczytuje aktualna planszê + dodatkowo powstaje pomnik w postaci miecza Shona w miejscu którym zgin¹, który zostaje do momentu przejœcia planszy lub wyjœcia z gry.
+
+    Bez zmian
+
+• Platformy
+
+Wczeœniej & Aktualnie: tutaj nic nie zmienia³em, dzia³a³y wczeœniej bardzo dobrze i nie ma potrzeb aby cokolwiek tutaj zmieniaæ
+
+• Przyciski do sterowania postaci¹
+
+Wczeœniej & Aktualnie: nie by³o skarg co do funkcjonowania i sterowania postaci¹ wczeœniej, tak wiêc zostaj¹ w tej samej formie. (lewo prawo a b)
+
+• Podstawowa grafik¹
+
+Wczeœniej & Aktualnie: zostaje dok³adnie w takiej samej formie, zda³a egzamin bardzo dobrze utrzymuj¹c klimat gry. Jedyne czego mo¿na siê bêdzie spodziewaæ to wiêcej rzeczy upiêkszaj¹cych komnaty zamku (obrazy, miecze, krzes³a itp.)
+
+    Nowoœci
+
+Mo¿liwoœæ przesuwania skrzynek, które bêd¹ pozwalaæ pokonaæ ró¿ne przeszkody czy te¿ odblokowaæ np. bramê. Ca³a mechanika jest ju¿ w ca³oœci napisana i dzia³a bardzo dobrze. Pchniêcie skrzynki lub jej ci¹gniêcie powoduje ¿e nasza postaæ o po³owê wolniej siê porusza.
+
+ 
+Mam nadziejê ¿e te kilka dobrych zmian przypadnie wam do gustu.
+
+ 
+
+Oczywiœcie to nie wszystko, i wraz z postêpem prac bêdê informowaæ na bie¿¹co o nowoœciach czy te¿ zmianach.
