@@ -1,26 +1,26 @@
 https://tusonic.pl/devlog-pixel2-01-prace-ruszyly/
 
 
-DevLog Pixel2 – #01 Prace ruszy³y pe³n¹ par¹!
+DevLog Pixel2 â€“ #01 Prace ruszyÅ‚y peÅ‚nÄ… parÄ…!
 
 Maj 6, 2018 | devlog
 
-Prace ruszy³y pe³n¹ par¹ nad now¹ czêœci¹ Pixel Shon Adventure.
+Prace ruszyÅ‚y peÅ‚nÄ… parÄ… nad nowÄ… czÄ™Å›ciÄ… Pixel Shon Adventure.
 
-Aktualnie pracujê nad udoskonaleniem samej postaci. Wielu z was narzeka³o, ¿e w pierwszej czêœci brakowa³o mo¿liwoœci atakowania podczas ruchu. Problem ten ju¿ zosta³ rozwi¹zany. Aktualnie pracujê nad mechanik¹ postaci. Wszystko zostaje lekko zmodernizowane i ulepszone tak aby nie trzeba by³o w póŸniejszych etapach gry modernizowaæ czy te¿ zmieniaæ mechaniki postaci.
+Aktualnie pracujÄ™ nad udoskonaleniem samej postaci. Wielu z was narzekaÅ‚o, Å¼e w pierwszej czÄ™Å›ci brakowaÅ‚o moÅ¼liwoÅ›ci atakowania podczas ruchu. Problem ten juÅ¼ zostaÅ‚ rozwiÄ…zany. Aktualnie pracujÄ™ nad mechanikÄ… postaci. Wszystko zostaje lekko zmodernizowane i ulepszone tak aby nie trzeba byÅ‚o w pÃ³Åºniejszych etapach gry modernizowaÄ‡ czy teÅ¼ zmieniaÄ‡ mechaniki postaci.
 
-Aktualnie wygl¹da to tak:
+Aktualnie wyglÄ…da to tak:
 
-    Shon mo¿e atakowaæ (atack sword ) podczas ruchu (run left / run right)
-    Shon mo¿e atakowaæ podczas skoku (jump atack)
+    Shon moÅ¼e atakowaÄ‡ (atack sword ) podczas ruchu (run left / run right)
+    Shon moÅ¼e atakowaÄ‡ podczas skoku (jump atack)
     Lepsza praca kamery podczas gry ( zoom in / zoom out )
-    Bêdzie wersja na platformê AirConsole (pierwszej czêœci niestety nie uda³o mi siê ostatecznie wdro¿yæ)
+    BÄ™dzie wersja na platformÄ™ AirConsole (pierwszej czÄ™Å›ci niestety nie udaÅ‚o mi siÄ™ ostatecznie wdroÅ¼yÄ‡)
 
  
-Jak widaæ prace ruszy³y nad Pixel Shon Adventure 2 pe³na par¹!
+Jak widaÄ‡ prace ruszyÅ‚y nad Pixel Shon Adventure 2 peÅ‚na parÄ…!
 
  
 
-Tak jak w poprzedniej wersji, ca³oœæ bêdzie wczeœniej dostêpna jako beta! Ten model bardzo dobrze siê sprawdzi³. Uda³o siê wychwyciæ dziêki temu bardzo du¿o b³êdów które na bie¿¹co by³y usuwane. Standardowo dla tych was wszystkich, którzy bêd¹ braæ czynny udzia³ w testach przewidziane s¹ ró¿ne nagrody. Sama gra pod wzglêdem wygl¹du nie bêdzie specjalnie jakoœ odbiegaæ od poprzedniej wersji. Bêdzie bardziej urozmaicona i ozdobiona tak aby trochê nadaæ klimatu ca³ej grze. Akcja nadal bêdzie toczyæ siê w zamku, ale do ca³ej gry planujê napisaæ scenariusz, mocno tego brakowa³o te¿ w poprzedniej czêœci, gra praktycznie nie posiada³a ¿adnego scenariusza.
+Tak jak w poprzedniej wersji, caÅ‚oÅ›Ä‡ bÄ™dzie wczeÅ›niej dostÄ™pna jako beta! Ten model bardzo dobrze siÄ™ sprawdziÅ‚. UdaÅ‚o siÄ™ wychwyciÄ‡ dziÄ™ki temu bardzo duÅ¼o bÅ‚Ä™dÃ³w ktÃ³re na bieÅ¼Ä…co byÅ‚y usuwane. Standardowo dla tych was wszystkich, ktÃ³rzy bÄ™dÄ… braÄ‡ czynny udziaÅ‚ w testach przewidziane sÄ… rÃ³Å¼ne nagrody. Sama gra pod wzglÄ™dem wyglÄ…du nie bÄ™dzie specjalnie jakoÅ› odbiegaÄ‡ od poprzedniej wersji. BÄ™dzie bardziej urozmaicona i ozdobiona tak aby trochÄ™ nadaÄ‡ klimatu caÅ‚ej grze. Akcja nadal bÄ™dzie toczyÄ‡ siÄ™ w zamku, ale do caÅ‚ej gry planujÄ™ napisaÄ‡ scenariusz, mocno tego brakowaÅ‚o teÅ¼ w poprzedniej czÄ™Å›ci, gra praktycznie nie posiadaÅ‚a Å¼adnego scenariusza.
 
-Myœlê ¿e nowy Shon bêdzie lepszy, a proces tworzenia powinien zaj¹c zdecydowanie mniej czasu, w koñcu wiêkszoœæ rzeczy jest ju¿ zrobiona.
+MyÅ›lÄ™ Å¼e nowy Shon bÄ™dzie lepszy, a proces tworzenia powinien zajÄ…c zdecydowanie mniej czasu, w koÅ„cu wiÄ™kszoÅ›Ä‡ rzeczy jest juÅ¼ zrobiona.

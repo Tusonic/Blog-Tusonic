@@ -1,0 +1,42 @@
+https://tusonic.pl/devlog-pixel2-03-potwory-do-pokonania-w-pixel-shon-adventure-2/
+
+
+DevLog Pixel2 – #03 Potwory do pokonania w Pixel Shon Adventure 2
+
+Cze 23, 2018 | devlog
+
+Potwory do pokonania w Pixel Shon Adventure 2.
+
+Jak w poprzedniej wersji w komnatach występował dosłownie tylko jeden rodzaj szkieletów. Cała mechanika sprowadzała się do chodzenia po planszy od punktu A do punktu B. Szkielet mógł nas tylko zauważyć, gdy tylko stał przodem do nas, kiedy stał tyłem po prostu nas nie widział. Stworzenie takiego zachowania było celowe, jak się później okazało sporo osób narzekało, że podczas ruchu nie można atakować, a zabicie szkieleta stojącego tyłem jest praktycznie nie możliwe. Ostatecznie taka forma i mechanika została.
+
+Nowy Shon wzbogacił się o kilka nowych potworków oraz drobne zmiany w mechanice. Całość działa bardzo dobrze. Niebawem planuje wypuszczenie gry w fazie wczesnego dostępu, tak aby fani mojej gry mogli już ja sprawdzać i testować pod kątem błędów. Ten model testowania gry bardzo dobrze sprawdził się wcześniej, dostałem liczne odpowiedzi, a czasami nawet maile z filmikami czy też screenami, które były bardzo dla mnie pomocne!
+
+ 
+
+Wcześniej był:
+
+Szkielet (Skeleton)
+Opis: Szkielet przyspieszał w naszą stronę tylko wtedy kiedy byliśmy w jego zasięgu. Szkielet mógł nas tylko zauważyć wtedy kiedy nas widział.
+
+ 
+
+Aktualnie jest:
+
+Szkielet (Skeleton)
+Opis: Szkielet nadal przyspiesza w naszą stronę jeżeli nas widzi, ale tym razem nawet stojąc tyłem do nas, może nas usłyszeć i tym samym nas atakować! Podobnie jak wcześniej charakteryzuje się to czerwonymi oczami, co bardzo mocno przypadło wszystkim do gustu.
+
+Szkielet Wojownik (Skeleton Warrior)
+Opis: Podobne zachowanie jak szkielet z tą różnicą że szkielet posiada broń w postaci miecza, którym będzie próbować nas zabić gdy tylko zbliży się na odpowiednią odległość. Praktycznie wygląda to tak, że musimy być szybsi i odpowiednio wcześniej zamachnąć mieczem. Przyznam szczerze że pod czas testów, kilka razy przegrałem.
+
+Szkielet Demon (Demon Skeleton)
+Opis: Tak jak poprzednie szkielety i tutaj szkielet jest w stanie nas wyczuć gdy stoimy za nim. Sam szkielet porusza się dwa razy wolniej od poprzednich szkieletów, lecz gdy będziemy w jego zasięgu wystrzeli w nas kule ognia. Kula jest dokładnie taka sama jak w pierwszej części przy pierwszym boss`ie i da się ją zniszczyć, co mało kto o tym wiedział.
+
+Nietoperz (Bat)
+Opis: Nietoperze będą występować w różnych zakątkach planszy. Jego atak zasadniczo różni się od szkieleta ponieważ jest to atak z powietrza. Gdy tylko znajdziemy się w zasięgu nietoperza zacznie powoli zbliżać się w naszą stronę, im bliżej będzie naszej postaci tym jego prędkość będzie się zwiększać. Jeżeli będzie dostatecznie blisko, jego prędkość zwiększy się dwukrotnie. Całość jest dość widowiskowe, a sam nietoperz dość trudny do pokonania. Właśnie ze względu na chaotyczny rodzaj poruszania i ataku może się okazać najtrudniejszym potworem do pokonania podczas przemierzania lochów zamku.
+
+ 
+
+Co do samych boss`ów, nie chcę zdradzać ich wszystkich, więc zdradzę zarys tylko jednego. Będzie to Vampir który będzie nas atakować wyżej wspomnianymi nietoperzami. Nie będzie jak w poprzedniej wersji konieczność przechodzenia plansz od zera aby pokonać kolejnego bossa. Planuję tutaj zachować ciągłość i w trakcie całej rozgrywki co kilka plansz wprowadzać walki z boss`ami.
+Jak widać potwory do pokonania jak i sami bossowie będą trudniejsi niż w poprzedniej wersji.
+
+Niebawem wydam wersje do testów.
